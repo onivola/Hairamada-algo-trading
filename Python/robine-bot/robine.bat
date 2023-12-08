@@ -1,0 +1,2 @@
+python robine.pyw
+pause

@@ -1,0 +1,2 @@
+python pricesock.py
+pause

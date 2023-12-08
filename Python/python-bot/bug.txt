@@ -1,0 +1,27 @@
+Take Profit= 38355.0QT=0.02
+Enter Price = 38344.99
+Stop Lost = 38344.61QT=0.05
+Close Price = 38340.68
+tokony ampekarina ilay difference de quantite 
+
+
+11111111++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38293.02QT=0.0
+Enter Price = 38300.18
+Stop Lost = 38310.44QT=0.998548
+Close Price = 38312.48
+tokony akaiky koko ilay Take Profit
+
+2222222++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38283.9QT=0.002
+Enter Price = 38301.79
+Stop Lost = 38310.44QT=0.853885
+Close Price = 38312.48
+tokony ampekarina ilay difference de quantite 
+
+33333333++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38292.69QT=0.0
+Enter Price = 38300.18
+Stop Lost = 38310.44QT=0.925416
+Close Price = 38312.48
+resume ny difference ny quantite tokony ho 0.9 ny ambony de ny ambany 0.0002

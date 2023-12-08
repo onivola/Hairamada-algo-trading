@@ -1,0 +1,1 @@
+https://fapi.binance.com/fapi/v1/apiTradingStatus

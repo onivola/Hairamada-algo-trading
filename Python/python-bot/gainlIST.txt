@@ -1,0 +1,6199 @@
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38410.01QT=0.0
+Enter Price = 38410.32
+Stop Lost = 38413.88QT=3.388101
+Close Price = 38400.76
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38456.32QT=0.0
+Enter Price = 38434.21
+Stop Lost = 38451.34QT=0.35
+Close Price = 38433.16
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38450.32QT=0.0
+Enter Price = 38434.21
+Stop Lost = 38450.01QT=4.35
+Close Price = 38433.16
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38444.42QT=0.0
+Enter Price = 38433.16
+Stop Lost = 38450.01QT=1.252678
+Close Price = 38426.08
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38444.02QT=0.0
+Enter Price = 38433.16
+Stop Lost = 38450.01QT=1.267448
+Close Price = 38426.08
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38426.77QT=0.0
+Enter Price = 38433.16
+Stop Lost = 38451.34QT=0.008515
+Close Price = 38426.08
+---------------PERTE BUY----------------
+Take Profit= 38444.54QT=0.0
+Enter Price = 38425.98
+Stop Lost = 38445.86QT=0.15
+Close Price = 38425.98
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38447.39QT=0.0
+Enter Price = 38425.98
+Stop Lost = 38445.86QT=1.1
+Close Price = 38425.98
+---------------PERTE BUY----------------
+Take Profit= 38444.54QT=0.0
+Enter Price = 38425.98
+Stop Lost = 38445.85QT=3.1
+Close Price = 38425.84
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38445.85QT=0.0
+Enter Price = 38425.98
+Stop Lost = 38445.86QT=1.227164
+Close Price = 38425.84
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38438.59QT=0.0
+Enter Price = 38422.97
+Stop Lost = 38442.77QT=0.01041
+Close Price = 38421.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38440.0QT=0.0
+Enter Price = 38420.01
+Stop Lost = 38439.98QT=0.25
+Close Price = 38420.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38439.97QT=0.0
+Enter Price = 38420.01
+Stop Lost = 38439.94QT=0.35
+Close Price = 38420.0
+---------------PERTE BUY----------------
+Take Profit= 38437.62QT=0.0
+Enter Price = 38420.0
+Stop Lost = 38437.62QT=0.85
+Close Price = 38420.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38439.93QT=0.0
+Enter Price = 38420.01
+Stop Lost = 38437.62QT=1.07
+Close Price = 38418.6
+---------------PERTE BUY----------------
+Take Profit= 38437.67QT=0.000505
+Enter Price = 38418.6
+Stop Lost = 38434.81QT=0.283576
+Close Price = 38418.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38437.6QT=0.0
+Enter Price = 38420.01
+Stop Lost = 38437.62QT=0.848213
+Close Price = 38418.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38436.26QT=0.0
+Enter Price = 38418.0
+Stop Lost = 38437.67QT=0.00257
+Close Price = 38418.0
+---------------PERTE BUY----------------
+Take Profit= 38437.63QT=0.0
+Enter Price = 38418.0
+Stop Lost = 38437.66QT=5.4
+Close Price = 38417.38
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38439.96QT=0.0
+Enter Price = 38417.99
+Stop Lost = 38437.68QT=0.498163
+Close Price = 38417.99
+---------------PERTE BUY----------------
+Take Profit= 38437.63QT=0.0
+Enter Price = 38417.99
+Stop Lost = 38437.67QT=5.463951
+Close Price = 38418.57
+---------------PERTE BUY----------------
+Take Profit= 38437.68QT=0.0
+Enter Price = 38418.57
+Stop Lost = 38439.96QT=5.28141
+Close Price = 38418.57
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38437.67QT=0.0
+Enter Price = 38417.99
+Stop Lost = 38437.63QT=0.5
+Close Price = 38418.57
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38445.95QT=0.0
+Enter Price = 38423.99
+Stop Lost = 38443.52QT=0.026088
+Close Price = 38423.99
+---------------PERTE BUY----------------
+Take Profit= 38443.52QT=0.0
+Enter Price = 38423.99
+Stop Lost = 38444.51QT=1.222
+Close Price = 38418.43
+---------------PERTE BUY----------------
+Take Profit= 38440.52QT=0.001367
+Enter Price = 38423.99
+Stop Lost = 38440.47QT=2.758338
+Close Price = 38418.43
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38444.51QT=0.0
+Enter Price = 38423.99
+Stop Lost = 38440.48QT=0.473129
+Close Price = 38418.43
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38442.52QT=0.0
+Enter Price = 38423.98
+Stop Lost = 38443.84QT=1.126226
+Close Price = 38423.98
+---------------PERTE BUY----------------
+Take Profit= 38443.81QT=0.0
+Enter Price = 38423.98
+Stop Lost = 38443.84QT=0.000359
+Close Price = 38419.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38438.36QT=0.0
+Enter Price = 38423.98
+Stop Lost = 38443.84QT=1.121796
+Close Price = 38419.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38443.83QT=0.008982
+Enter Price = 38423.98
+Stop Lost = 38443.84QT=1.121008
+Close Price = 38420.44
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38438.36QT=0.0
+Enter Price = 38423.98
+Stop Lost = 38443.84QT=1.156837
+Close Price = 38420.44
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38443.83QT=0.0
+Enter Price = 38423.98
+Stop Lost = 38443.82QT=0.15
+Close Price = 38420.44
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38443.8QT=0.0085
+Enter Price = 38423.98
+Stop Lost = 38443.81QT=0.15
+Close Price = 38420.44
+---------------PERTE BUY----------------
+Take Profit= 38447.19QT=0.001665
+Enter Price = 38428.21
+Stop Lost = 38447.14QT=1.973907
+Close Price = 38428.21
+---------------PERTE BUY----------------
+Take Profit= 38447.19QT=0.0
+Enter Price = 38429.06
+Stop Lost = 38447.14QT=1.78724
+Close Price = 38429.06
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38447.1QT=0.004811
+Enter Price = 38429.06
+Stop Lost = 38447.19QT=0.008697
+Close Price = 38429.07
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38445.83QT=0.0
+Enter Price = 38429.07
+Stop Lost = 38447.15QT=5.700701
+Close Price = 38429.07
+---------------PERTE BUY----------------
+Take Profit= 38447.15QT=0.0
+Enter Price = 38429.06
+Stop Lost = 38450.88QT=4.1
+Close Price = 38429.07
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38454.35QT=0.0
+Enter Price = 38429.07
+Stop Lost = 38447.0QT=4.041205
+Close Price = 38432.17
+---------------PERTE BUY----------------
+Take Profit= 38449.0QT=0.026008
+Enter Price = 38432.17
+Stop Lost = 38446.99QT=3.590511
+Close Price = 38432.17
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38446.99QT=0.0
+Enter Price = 38432.17
+Stop Lost = 38440.49QT=0.992668
+Close Price = 38432.17
+---------------PERTE BUY----------------
+Take Profit= 38437.11QT=0.0
+Enter Price = 38432.17
+Stop Lost = 38440.11QT=3.95
+Close Price = 38416.53
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38440.48QT=0.0
+Enter Price = 38432.17
+Stop Lost = 38440.13QT=2.928473
+Close Price = 38416.53
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38440.12QT=0.0
+Enter Price = 38432.17
+Stop Lost = 38437.11QT=0.84127
+Close Price = 38416.53
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38427.88QT=0.0
+Enter Price = 38432.17
+Stop Lost = 38437.11QT=0.615026
+Close Price = 38416.53
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38440.08QT=0.0
+Enter Price = 38416.45
+Stop Lost = 38427.0QT=0.001537
+Close Price = 38416.45
+---------------PERTE BUY----------------
+Take Profit= 38430.67QT=0.02
+Enter Price = 38416.45
+Stop Lost = 38422.88QT=0.340857
+Close Price = 38405.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38425.23QT=0.0
+Enter Price = 38416.45
+Stop Lost = 38425.1QT=1.885435
+Close Price = 38405.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38426.04QT=0.0
+Enter Price = 38404.52
+Stop Lost = 38424.01QT=2.49127
+Close Price = 38404.52
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38424.0QT=0.017
+Enter Price = 38404.52
+Stop Lost = 38424.01QT=2.021387
+Close Price = 38404.52
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38404.22QT=0.0
+Enter Price = 38420.0
+Stop Lost = 38437.63QT=0.359134
+Close Price = 38398.56
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38419.14QT=0.005896
+Enter Price = 38404.52
+Stop Lost = 38424.01QT=2.08752
+Close Price = 38398.56
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38424.0QT=0.0
+Enter Price = 38404.52
+Stop Lost = 38422.85QT=0.02417
+Close Price = 38400.88
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38418.02QT=0.02
+Enter Price = 38404.52
+Stop Lost = 38424.0QT=0.06
+Close Price = 38400.88
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38405.12QT=0.0
+Enter Price = 38404.52
+Stop Lost = 38422.85QT=0.418656
+Close Price = 38402.49
+---------------PERTE BUY----------------
+Take Profit= 38422.44QT=0.0
+Enter Price = 38402.5
+Stop Lost = 38423.99QT=0.259207
+Close Price = 38402.5
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38424.0QT=0.0
+Enter Price = 38402.5
+Stop Lost = 38422.44QT=0.374685
+Close Price = 38402.49
+---------------PERTE BUY----------------
+Take Profit= 38424.01QT=0.0
+Enter Price = 38405.5
+Stop Lost = 38426.8QT=0.212258
+Close Price = 38405.75
+---------------PERTE BUY----------------
+Take Profit= 38427.92QT=0.001512
+Enter Price = 38408.01
+Stop Lost = 38427.91QT=3.379807
+Close Price = 38405.13
+---------------PERTE BUY----------------
+Take Profit= 38426.0QT=0.0
+Enter Price = 38407.17
+Stop Lost = 38426.68QT=4.5
+Close Price = 38405.76
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38319.0QT=0.013044
+Enter Price = 38325.73
+Stop Lost = 38335.44QT=0.217224
+Close Price = 38316.9
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38278.15QT=0.0
+Enter Price = 38279.93
+Stop Lost = 38289.5QT=1.476936
+Close Price = 38265.96
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38346.23QT=0.0
+Enter Price = 38350.23
+Stop Lost = 38365.98QT=0.302694
+Close Price = 38337.88
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38344.84QT=0.0
+Enter Price = 38347.19
+Stop Lost = 38362.16QT=0.43865
+Close Price = 38336.94
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38365.98QT=0.002026
+Enter Price = 38347.11
+Stop Lost = 38335.26QT=0.377737
+Close Price = 38366.79
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38382.06QT=0.0
+Enter Price = 38384.24
+Stop Lost = 38400.0QT=4.929314
+Close Price = 38380.58
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38376.22QT=0.002135
+Enter Price = 38382.4
+Stop Lost = 38400.0QT=0.473828
+Close Price = 38373.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38376.22QT=0.001785
+Enter Price = 38382.4
+Stop Lost = 38400.0QT=0.118297
+Close Price = 38373.0
+---------------PERTE BUY----------------
+Take Profit= 38408.31QT=0.03907
+Enter Price = 38388.54
+Stop Lost = 38382.42QT=2.331111
+Close Price = 38377.65
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38371.67QT=0.001128
+Enter Price = 38382.4
+Stop Lost = 38400.0QT=0.166135
+Close Price = 38369.14
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38382.42QT=0.0
+Enter Price = 38388.13
+Stop Lost = 38405.97QT=0.489816
+Close Price = 38369.14
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38382.05QT=0.0
+Enter Price = 38384.95
+Stop Lost = 38400.01QT=1.158356
+Close Price = 38380.95
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38371.94QT=0.0
+Enter Price = 38386.4
+Stop Lost = 38405.01QT=2.615697
+Close Price = 38366.41
+---------------PERTE BUY----------------
+Take Profit= 38385.76QT=0.0
+Enter Price = 38366.41
+Stop Lost = 38360.41QT=0.322791
+Close Price = 38358.89
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38364.74QT=0.0
+Enter Price = 38366.41
+Stop Lost = 38382.59QT=1.862813
+Close Price = 38358.89
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38358.08QT=0.0
+Enter Price = 38366.41
+Stop Lost = 38382.59QT=2.048469
+Close Price = 38354.92
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38352.15QT=0.0
+Enter Price = 38354.65
+Stop Lost = 38371.01QT=0.073596
+Close Price = 38350.31
+---------------PERTE BUY----------------
+Take Profit= 38353.21QT=3.7e-05
+Enter Price = 38345.01
+Stop Lost = 38343.65QT=0.2842
+Close Price = 38337.72
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38334.79QT=0.0
+Enter Price = 38339.39
+Stop Lost = 38343.18QT=0.509892
+Close Price = 38323.8
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38331.29QT=0.013041
+Enter Price = 38339.39
+Stop Lost = 38343.18QT=0.643864
+Close Price = 38323.8
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38317.9QT=0.0
+Enter Price = 38337.72
+Stop Lost = 38350.36QT=0.04
+Close Price = 38353.02
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38351.0QT=0.0
+Enter Price = 38351.82
+Stop Lost = 38356.11QT=4.902958
+Close Price = 38346.45
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38323.48QT=0.0
+Enter Price = 38333.04
+Stop Lost = 38353.01QT=2.581039
+Close Price = 38307.47
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38314.74QT=0.0
+Enter Price = 38333.04
+Stop Lost = 38353.01QT=2.425854
+Close Price = 38307.47
+---------------PERTE BUY----------------
+Take Profit= 38309.5QT=0.0
+Enter Price = 38303.76
+Stop Lost = 38301.0QT=0.270262
+Close Price = 38283.22
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38285.06QT=0.0
+Enter Price = 38295.28
+Stop Lost = 38313.08QT=0.514801
+Close Price = 38273.23
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38250.88QT=0.0
+Enter Price = 38260.02
+Stop Lost = 38271.92QT=0.156112
+Close Price = 38250.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38278.85QT=0.0
+Enter Price = 38279.55
+Stop Lost = 38298.87QT=2.750261
+Close Price = 38276.97
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38275.23QT=0.0
+Enter Price = 38276.98
+Stop Lost = 38293.36QT=0.76149
+Close Price = 38274.01
+---------------PERTE BUY----------------
+Take Profit= 38297.73QT=1e-06
+Enter Price = 38278.99
+Stop Lost = 38268.61QT=5.708402
+Close Price = 38264.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38265.16QT=0.0
+Enter Price = 38274.0
+Stop Lost = 38280.56QT=0.443235
+Close Price = 38260.04
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38271.91QT=0.013064
+Enter Price = 38274.58
+Stop Lost = 38291.95QT=4.487091
+Close Price = 38265.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38268.85QT=0.002652
+Enter Price = 38285.53
+Stop Lost = 38303.01QT=0.180842
+Close Price = 38256.99
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38264.42QT=0.0
+Enter Price = 38271.12
+Stop Lost = 38272.53QT=2.484893
+Close Price = 38256.99
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38260.9QT=0.0
+Enter Price = 38271.12
+Stop Lost = 38276.9QT=0.04
+Close Price = 38256.99
+---------------PERTE BUY----------------
+Take Profit= 38262.45QT=0.0
+Enter Price = 38256.99
+Stop Lost = 38255.68QT=0.4
+Close Price = 38243.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38255.59QT=0.0
+Enter Price = 38256.99
+Stop Lost = 38259.92QT=2.173367
+Close Price = 38230.42
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38255.69QT=0.0
+Enter Price = 38256.99
+Stop Lost = 38259.92QT=2.835996
+Close Price = 38243.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38255.53QT=0.0
+Enter Price = 38256.99
+Stop Lost = 38259.92QT=2.80262
+Close Price = 38230.42
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38239.92QT=0.000525
+Enter Price = 38256.99
+Stop Lost = 38259.92QT=2.895403
+Close Price = 38229.4
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38221.99QT=0.0
+Enter Price = 38228.06
+Stop Lost = 38230.98QT=0.423839
+Close Price = 38200.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38202.02QT=0.0
+Enter Price = 38210.28
+Stop Lost = 38225.4QT=0.610587
+Close Price = 38201.39
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38193.48QT=0.0
+Enter Price = 38206.57
+Stop Lost = 38221.01QT=0.147868
+Close Price = 38221.74
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38211.17QT=0.0
+Enter Price = 38221.74
+Stop Lost = 38241.55QT=0.118869
+Close Price = 38241.59
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38265.19QT=0.0
+Enter Price = 38274.79
+Stop Lost = 38293.71QT=2.735741
+Close Price = 38260.8
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38243.65QT=0.0
+Enter Price = 38244.98
+Stop Lost = 38250.76QT=2.807525
+Close Price = 38228.32
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38200.16QT=0.0
+Enter Price = 38202.27
+Stop Lost = 38211.83QT=0.735643
+Close Price = 38192.13
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38208.69QT=0.0
+Enter Price = 38209.01
+Stop Lost = 38227.94QT=0.255857
+Close Price = 38208.01
+---------------PERTE BUY----------------
+Take Profit= 38230.69QT=0.0
+Enter Price = 38213.08
+Stop Lost = 38197.53QT=0.054388
+Close Price = 38196.1
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38206.32QT=0.0
+Enter Price = 38209.99
+Stop Lost = 38227.92QT=2.813012
+Close Price = 38196.1
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38198.06QT=0.0
+Enter Price = 38208.0
+Stop Lost = 38227.94QT=0.379982
+Close Price = 38188.82
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38207.65QT=0.0
+Enter Price = 38209.01
+Stop Lost = 38227.94QT=0.867971
+Close Price = 38154.99
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38196.23QT=0.0
+Enter Price = 38208.01
+Stop Lost = 38227.92QT=1.648766
+Close Price = 38154.99
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38205.88QT=0.0
+Enter Price = 38207.94
+Stop Lost = 38212.91QT=4.903039
+Close Price = 38162.82
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38204.0QT=0.02
+Enter Price = 38207.94
+Stop Lost = 38212.91QT=2.663039
+Close Price = 38162.82
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38197.9QT=0.0
+Enter Price = 38207.12
+Stop Lost = 38222.99QT=4.038524
+Close Price = 38197.6
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38190.96QT=0.0
+Enter Price = 38207.12
+Stop Lost = 38222.99QT=0.525
+Close Price = 38224.59
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38276.5QT=0.0
+Enter Price = 38276.66
+Stop Lost = 38292.22QT=1.41552
+Close Price = 38267.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38285.57QT=0.0
+Enter Price = 38287.44
+Stop Lost = 38292.23QT=2.778564
+Close Price = 38266.09
+---------------PERTE BUY----------------
+Take Profit= 38314.31QT=0.0
+Enter Price = 38295.22
+Stop Lost = 38284.36QT=5.69271
+Close Price = 38280.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38289.7QT=0.0
+Enter Price = 38295.22
+Stop Lost = 38310.09QT=3.087163
+Close Price = 38280.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38305.68QT=0.012336
+Enter Price = 38289.41
+Stop Lost = 38274.95QT=0.4
+Close Price = 38314.55
+---------------PERTE BUY----------------
+Take Profit= 38327.95QT=0.020918
+Enter Price = 38308.7
+Stop Lost = 38305.93QT=0.32
+Close Price = 38304.61
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38282.1QT=0.0
+Enter Price = 38295.19
+Stop Lost = 38312.15QT=3.712971
+Close Price = 38317.13
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38277.26QT=0.0
+Enter Price = 38295.0
+Stop Lost = 38312.13QT=1.3
+Close Price = 38312.4
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38317.98QT=0.0
+Enter Price = 38318.39
+Stop Lost = 38337.98QT=0.04
+Close Price = 38316.27
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38296.86QT=0.0
+Enter Price = 38309.89
+Stop Lost = 38326.85QT=6.314398
+Close Price = 38338.14
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38307.84QT=0.0
+Enter Price = 38311.4
+Stop Lost = 38326.84QT=0.111651
+Close Price = 38338.14
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38300.49QT=0.0
+Enter Price = 38308.64
+Stop Lost = 38326.85QT=3.161245
+Close Price = 38338.14
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38300.32QT=0.0
+Enter Price = 38310.69
+Stop Lost = 38326.81QT=2.033037
+Close Price = 38340.06
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38306.7QT=0.0
+Enter Price = 38308.44
+Stop Lost = 38326.8QT=1.236423
+Close Price = 38340.06
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38344.89QT=0.0
+Enter Price = 38345.5
+Stop Lost = 38360.14QT=0.25
+Close Price = 38337.93
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38333.87QT=0.0
+Enter Price = 38337.93
+Stop Lost = 38354.3QT=1.938878
+Close Price = 38324.2
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38343.64QT=0.0
+Enter Price = 38344.01
+Stop Lost = 38361.01QT=7.402437
+Close Price = 38340.92
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38330.56QT=0.0
+Enter Price = 38346.54
+Stop Lost = 38361.01QT=2.16263
+Close Price = 38328.24
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38318.78QT=0.0
+Enter Price = 38325.45
+Stop Lost = 38339.45QT=0.318118
+Close Price = 38342.66
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38305.84QT=0.027232
+Enter Price = 38325.75
+Stop Lost = 38339.43QT=0.199641
+Close Price = 38342.66
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38307.04QT=0.0
+Enter Price = 38323.36
+Stop Lost = 38339.43QT=0.911002
+Close Price = 38342.66
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38323.33QT=0.005
+Enter Price = 38323.37
+Stop Lost = 38339.43QT=0.202513
+Close Price = 38341.54
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38339.44QT=0.0
+Enter Price = 38341.85
+Stop Lost = 38344.76QT=5.151769
+Close Price = 38339.35
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38335.9QT=0.0
+Enter Price = 38339.97
+Stop Lost = 38355.14QT=0.75423
+Close Price = 38333.81
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38338.0QT=0.0
+Enter Price = 38339.35
+Stop Lost = 38344.8QT=0.005486
+Close Price = 38333.81
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38323.35QT=0.0
+Enter Price = 38330.92
+Stop Lost = 38342.84QT=0.140664
+Close Price = 38322.1
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38331.68QT=0.0
+Enter Price = 38339.35
+Stop Lost = 38339.44QT=1.156718
+Close Price = 38322.1
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38329.23QT=0.0
+Enter Price = 38333.81
+Stop Lost = 38339.44QT=2.332715
+Close Price = 38322.1
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38322.79QT=0.0
+Enter Price = 38333.81
+Stop Lost = 38339.44QT=2.742716
+Close Price = 38320.02
+---------------PERTE BUY----------------
+Take Profit= 38367.28QT=0.02
+Enter Price = 38347.54
+Stop Lost = 38344.12QT=1.554814
+Close Price = 38341.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38342.71QT=0.0
+Enter Price = 38349.36
+Stop Lost = 38360.93QT=0.305466
+Close Price = 38341.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38333.82QT=0.0
+Enter Price = 38347.02
+Stop Lost = 38358.67QT=0.002674
+Close Price = 38332.61
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38327.0QT=0.0
+Enter Price = 38339.77
+Stop Lost = 38342.85QT=1.225725
+Close Price = 38326.57
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38337.5QT=0.000262
+Enter Price = 38339.77
+Stop Lost = 38342.85QT=1.178692
+Close Price = 38326.57
+---------------PERTE BUY----------------
+Take Profit= 38340.22QT=0.0
+Enter Price = 38321.46
+Stop Lost = 38315.85QT=0.3913
+Close Price = 38303.58
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38314.85QT=0.0
+Enter Price = 38321.46
+Stop Lost = 38335.07QT=1.389567
+Close Price = 38303.58
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38314.96QT=0.0
+Enter Price = 38316.68
+Stop Lost = 38320.85QT=4.431283
+Close Price = 38308.99
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38304.95QT=0.014186
+Enter Price = 38306.69
+Stop Lost = 38311.19QT=2.469371
+Close Price = 38294.68
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38293.62QT=0.0
+Enter Price = 38294.68
+Stop Lost = 38313.76QT=0.216902
+Close Price = 38293.15
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38305.35QT=0.0183
+Enter Price = 38307.0
+Stop Lost = 38321.05QT=3.343124
+Close Price = 38303.3
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38295.21QT=0.0
+Enter Price = 38300.0
+Stop Lost = 38315.01QT=0.452499
+Close Price = 38294.73
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38299.42QT=0.0
+Enter Price = 38299.75
+Stop Lost = 38300.04QT=0.499552
+Close Price = 38294.73
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38287.42QT=0.03168
+Enter Price = 38301.76
+Stop Lost = 38315.15QT=0.604998
+Close Price = 38282.2
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38286.69QT=0.0
+Enter Price = 38294.68
+Stop Lost = 38311.19QT=2.501761
+Close Price = 38282.2
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38288.83QT=0.0
+Enter Price = 38304.94
+Stop Lost = 38318.74QT=0.338927
+Close Price = 38284.7
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38293.69QT=0.0
+Enter Price = 38299.74
+Stop Lost = 38315.82QT=0.834313
+Close Price = 38284.7
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38281.2QT=0.0
+Enter Price = 38284.7
+Stop Lost = 38300.04QT=2.254359
+Close Price = 38279.58
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38275.01QT=0.0
+Enter Price = 38284.7
+Stop Lost = 38299.03QT=3.816203
+Close Price = 38274.61
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38278.96QT=0.0
+Enter Price = 38279.58
+Stop Lost = 38293.19QT=4.058718
+Close Price = 38274.61
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38259.67QT=0.0
+Enter Price = 38264.57
+Stop Lost = 38284.0QT=0.009988
+Close Price = 38285.69
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38286.82QT=0.0
+Enter Price = 38293.07
+Stop Lost = 38302.32QT=0.158605
+Close Price = 38279.44
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38281.6QT=0.0
+Enter Price = 38288.05
+Stop Lost = 38303.7QT=0.620052
+Close Price = 38279.44
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38277.05QT=0.0
+Enter Price = 38288.05
+Stop Lost = 38303.29QT=1.558983
+Close Price = 38276.21
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38270.34QT=0.0
+Enter Price = 38279.44
+Stop Lost = 38299.42QT=3.077967
+Close Price = 38301.55
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38274.47QT=0.0
+Enter Price = 38286.93
+Stop Lost = 38300.19QT=2.94713
+Close Price = 38301.55
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38285.0QT=0.001234
+Enter Price = 38286.92
+Stop Lost = 38303.11QT=0.02
+Close Price = 38313.96
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38284.58QT=0.0
+Enter Price = 38286.42
+Stop Lost = 38303.0QT=0.352204
+Close Price = 38313.96
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38289.07QT=0.0
+Enter Price = 38289.99
+Stop Lost = 38302.12QT=0.41477
+Close Price = 38312.32
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38284.78QT=0.0
+Enter Price = 38290.0
+Stop Lost = 38302.16QT=0.001076
+Close Price = 38312.32
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38289.16QT=0.0
+Enter Price = 38289.97
+Stop Lost = 38303.01QT=1.436265
+Close Price = 38312.32
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38310.15QT=0.0
+Enter Price = 38311.37
+Stop Lost = 38320.12QT=0.02293
+Close Price = 38305.25
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38309.24QT=0.0
+Enter Price = 38311.36
+Stop Lost = 38318.8QT=0.607078
+Close Price = 38304.01
+---------------PERTE BUY----------------
+Take Profit= 38318.0QT=0.01
+Enter Price = 38310.0
+Stop Lost = 38307.7QT=1.217
+Close Price = 38302.8
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38302.42QT=0.0
+Enter Price = 38312.32
+Stop Lost = 38320.1QT=0.495757
+Close Price = 38301.55
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38303.99QT=0.0
+Enter Price = 38311.36
+Stop Lost = 38318.8QT=2.076731
+Close Price = 38301.55
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38307.93QT=0.0
+Enter Price = 38310.0
+Stop Lost = 38326.32QT=0.283051
+Close Price = 38300.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38291.57QT=0.0
+Enter Price = 38307.0
+Stop Lost = 38318.8QT=0.725211
+Close Price = 38290.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38299.0QT=0.001205
+Enter Price = 38301.55
+Stop Lost = 38317.05QT=2.726427
+Close Price = 38290.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38290.01QT=0.0
+Enter Price = 38300.01
+Stop Lost = 38303.44QT=3.4364
+Close Price = 38289.98
+---------------PERTE BUY----------------
+Take Profit= 38303.01QT=0.010811
+Enter Price = 38289.98
+Stop Lost = 38288.11QT=0.56
+Close Price = 38287.39
+---------------PERTE BUY----------------
+Take Profit= 38303.03QT=0.005644
+Enter Price = 38290.01
+Stop Lost = 38289.96QT=0.1
+Close Price = 38287.39
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38276.26QT=0.0
+Enter Price = 38289.98
+Stop Lost = 38303.01QT=7.310846
+Close Price = 38303.2
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38274.2QT=0.026109
+Enter Price = 38286.42
+Stop Lost = 38303.01QT=8.014026
+Close Price = 38303.2
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38280.0QT=0.007694
+Enter Price = 38290.0
+Stop Lost = 38303.44QT=2.76604
+Close Price = 38305.48
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38278.2QT=0.013053
+Enter Price = 38289.98
+Stop Lost = 38303.44QT=3.21711
+Close Price = 38305.48
+---------------PERTE BUY----------------
+Take Profit= 38323.13QT=0.0
+Enter Price = 38303.2
+Stop Lost = 38303.0QT=0.065782
+Close Price = 38298.95
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38311.64QT=0.0
+Enter Price = 38315.0
+Stop Lost = 38331.76QT=0.28441
+Close Price = 38308.39
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38303.0QT=0.0
+Enter Price = 38311.24
+Stop Lost = 38322.83QT=0.522879
+Close Price = 38330.86
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38306.37QT=0.0
+Enter Price = 38308.03
+Stop Lost = 38323.93QT=0.071749
+Close Price = 38330.86
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38304.48QT=0.0
+Enter Price = 38315.05
+Stop Lost = 38331.16QT=1.338418
+Close Price = 38334.28
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38310.4QT=0.0
+Enter Price = 38315.01
+Stop Lost = 38334.17QT=0.284404
+Close Price = 38334.28
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38299.92QT=0.0
+Enter Price = 38311.44
+Stop Lost = 38327.17QT=0.684688
+Close Price = 38334.28
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38346.53QT=0.0
+Enter Price = 38347.72
+Stop Lost = 38358.99QT=0.679578
+Close Price = 38345.01
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38331.15QT=0.027982
+Enter Price = 38334.28
+Stop Lost = 38350.0QT=1.054384
+Close Price = 38362.0
+---------------PERTE BUY----------------
+Take Profit= 38378.05QT=0.0
+Enter Price = 38359.48
+Stop Lost = 38357.35QT=0.12
+Close Price = 38353.84
+---------------PERTE BUY----------------
+Take Profit= 38369.25QT=0.004518
+Enter Price = 38358.74
+Stop Lost = 38352.38QT=0.122587
+Close Price = 38352.24
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38358.25QT=0.0
+Enter Price = 38360.01
+Stop Lost = 38374.2QT=3.339729
+Close Price = 38357.96
+---------------PERTE BUY----------------
+Take Profit= 38373.91QT=0.002486
+Enter Price = 38361.07
+Stop Lost = 38360.99QT=0.39089
+Close Price = 38360.01
+---------------PERTE BUY----------------
+Take Profit= 38364.59QT=0.037055
+Enter Price = 38362.04
+Stop Lost = 38355.26QT=0.04
+Close Price = 38345.8
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38353.7QT=0.0
+Enter Price = 38360.01
+Stop Lost = 38374.2QT=0.244971
+Close Price = 38345.8
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38361.74QT=0.0
+Enter Price = 38365.26
+Stop Lost = 38374.2QT=0.360842
+Close Price = 38382.64
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38380.5QT=0.0
+Enter Price = 38380.56
+Stop Lost = 38396.97QT=2.261372
+Close Price = 38380.1
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38373.26QT=0.000268
+Enter Price = 38380.56
+Stop Lost = 38396.97QT=2.259913
+Close Price = 38372.48
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38384.89QT=0.0
+Enter Price = 38385.91
+Stop Lost = 38386.59QT=0.751876
+Close Price = 38380.1
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38370.14QT=0.0
+Enter Price = 38380.1
+Stop Lost = 38390.35QT=0.012856
+Close Price = 38350.93
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38364.76QT=0.0
+Enter Price = 38372.48
+Stop Lost = 38374.0QT=0.314247
+Close Price = 38350.93
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38354.29QT=0.0
+Enter Price = 38359.03
+Stop Lost = 38373.45QT=0.147728
+Close Price = 38354.14
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38353.44QT=0.0
+Enter Price = 38362.42
+Stop Lost = 38367.01QT=5.721438
+Close Price = 38352.74
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38346.26QT=0.0
+Enter Price = 38346.3
+Stop Lost = 38358.99QT=3.1
+Close Price = 38340.02
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38334.26QT=0.0
+Enter Price = 38346.3
+Stop Lost = 38354.03QT=3.360593
+Close Price = 38327.86
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38335.97QT=0.0
+Enter Price = 38346.3
+Stop Lost = 38354.03QT=3.358145
+Close Price = 38327.86
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38323.28QT=0.0
+Enter Price = 38327.86
+Stop Lost = 38345.01QT=5.455294
+Close Price = 38345.05
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38347.45QT=0.0
+Enter Price = 38327.86
+Stop Lost = 38321.19QT=0.994814
+Close Price = 38349.09
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38333.74QT=0.0
+Enter Price = 38346.3
+Stop Lost = 38354.03QT=3.341844
+Close Price = 38356.8
+---------------PERTE BUY----------------
+Take Profit= 38360.44QT=0.0
+Enter Price = 38350.87
+Stop Lost = 38345.34QT=0.162
+Close Price = 38344.9
+---------------PERTE BUY----------------
+Take Profit= 38363.95QT=0.0
+Enter Price = 38345.05
+Stop Lost = 38342.9QT=0.1
+Close Price = 38341.23
+---------------PERTE BUY----------------
+Take Profit= 38358.88QT=0.013905
+Enter Price = 38344.98
+Stop Lost = 38340.28QT=0.56
+Close Price = 38339.78
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38340.28QT=0.0
+Enter Price = 38344.98
+Stop Lost = 38360.95QT=0.02
+Close Price = 38339.78
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38340.33QT=0.0
+Enter Price = 38350.0
+Stop Lost = 38362.95QT=0.138772
+Close Price = 38337.15
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38340.44QT=0.0
+Enter Price = 38350.01
+Stop Lost = 38366.9QT=0.1
+Close Price = 38337.15
+---------------PERTE BUY----------------
+Take Profit= 38360.95QT=0.02
+Enter Price = 38345.05
+Stop Lost = 38335.56QT=0.57
+Close Price = 38326.64
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38331.42QT=0.0
+Enter Price = 38350.11
+Stop Lost = 38364.16QT=0.165739
+Close Price = 38326.64
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38341.12QT=0.0
+Enter Price = 38353.4
+Stop Lost = 38372.94QT=0.04
+Close Price = 38326.64
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38325.0QT=0.0
+Enter Price = 38326.64
+Stop Lost = 38327.91QT=0.000629
+Close Price = 38306.99
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38291.04QT=0.0
+Enter Price = 38296.1
+Stop Lost = 38296.18QT=0.83847
+Close Price = 38280.21
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38283.33QT=0.0
+Enter Price = 38285.73
+Stop Lost = 38292.64QT=5.883642
+Close Price = 38275.78
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38273.39QT=0.03
+Enter Price = 38285.73
+Stop Lost = 38292.64QT=7.446198
+Close Price = 38269.52
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38270.93QT=0.0
+Enter Price = 38275.79
+Stop Lost = 38290.01QT=8.323287
+Close Price = 38269.52
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38271.61QT=0.0
+Enter Price = 38275.79
+Stop Lost = 38290.01QT=6.223287
+Close Price = 38268.94
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38262.28QT=0.0
+Enter Price = 38268.94
+Stop Lost = 38285.34QT=1.562946
+Close Price = 38289.65
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38289.0QT=0.0
+Enter Price = 38289.65
+Stop Lost = 38306.59QT=0.284616
+Close Price = 38288.23
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38306.6QT=0.001281
+Enter Price = 38288.23
+Stop Lost = 38288.17QT=0.75
+Close Price = 38306.65
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38307.96QT=0.0
+Enter Price = 38308.29
+Stop Lost = 38311.66QT=0.480777
+Close Price = 38303.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38302.44QT=0.0
+Enter Price = 38306.65
+Stop Lost = 38317.27QT=0.241065
+Close Price = 38297.98
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38286.15QT=0.0
+Enter Price = 38297.98
+Stop Lost = 38309.75QT=0.694496
+Close Price = 38309.97
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38309.82QT=0.022657
+Enter Price = 38312.5
+Stop Lost = 38313.66QT=0.284522
+Close Price = 38305.86
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38289.86QT=0.0
+Enter Price = 38291.45
+Stop Lost = 38292.65QT=1.857181
+Close Price = 38279.99
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38291.82QT=0.0
+Enter Price = 38291.91
+Stop Lost = 38300.01QT=1.047361
+Close Price = 38286.9
+---------------PERTE BUY----------------
+Take Profit= 38293.68QT=0.0
+Enter Price = 38285.5
+Stop Lost = 38277.68QT=0.39172
+Close Price = 38277.61
+---------------PERTE BUY----------------
+Take Profit= 38296.75QT=0.0
+Enter Price = 38285.5
+Stop Lost = 38278.58QT=0.39172
+Close Price = 38277.61
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38276.53QT=0.0
+Enter Price = 38280.85
+Stop Lost = 38294.06QT=0.13
+Close Price = 38274.97
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38277.11QT=0.0
+Enter Price = 38277.61
+Stop Lost = 38295.73QT=0.04
+Close Price = 38274.97
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38273.03QT=0.0
+Enter Price = 38273.25
+Stop Lost = 38276.98QT=0.15
+Close Price = 38261.37
+---------------PERTE BUY----------------
+Take Profit= 38276.17QT=0.003012
+Enter Price = 38267.75
+Stop Lost = 38261.43QT=0.1
+Close Price = 38260.5
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38260.53QT=0.013063
+Enter Price = 38265.01
+Stop Lost = 38276.17QT=0.160287
+Close Price = 38260.5
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38275.27QT=0.017011
+Enter Price = 38260.0
+Stop Lost = 38245.16QT=0.122599
+Close Price = 38275.5
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38252.75QT=0.0
+Enter Price = 38266.36
+Stop Lost = 38275.27QT=1.507023
+Close Price = 38275.5
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38276.17QT=0.00273
+Enter Price = 38267.75
+Stop Lost = 38257.45QT=0.55
+Close Price = 38285.33
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38248.9QT=0.0
+Enter Price = 38260.81
+Stop Lost = 38273.24QT=0.44486
+Close Price = 38285.33
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38258.07QT=0.0
+Enter Price = 38272.61
+Stop Lost = 38278.53QT=1.058334
+Close Price = 38287.47
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38253.21QT=0.0
+Enter Price = 38265.01
+Stop Lost = 38276.17QT=0.078115
+Close Price = 38292.4
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38262.42QT=0.0
+Enter Price = 38267.75
+Stop Lost = 38278.51QT=0.002616
+Close Price = 38292.4
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38257.92QT=0.0
+Enter Price = 38267.75
+Stop Lost = 38273.24QT=1.294904
+Close Price = 38292.52
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38262.85QT=0.0
+Enter Price = 38272.05
+Stop Lost = 38287.16QT=0.078104
+Close Price = 38292.52
+2222222++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38283.9QT=0.002
+Enter Price = 38301.79
+Stop Lost = 38310.44QT=0.853885
+Close Price = 38312.48
+11111111++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38293.02QT=0.0
+Enter Price = 38300.18
+Stop Lost = 38310.44QT=0.998548
+Close Price = 38312.48
+33333333++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38292.69QT=0.0
+Enter Price = 38300.18
+Stop Lost = 38310.44QT=0.925416
+Close Price = 38312.48
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38312.7QT=0.0
+Enter Price = 38299.89
+Stop Lost = 38290.46QT=0.261024
+Close Price = 38313.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38311.47QT=0.0
+Enter Price = 38312.49
+Stop Lost = 38320.21QT=1.494764
+Close Price = 38309.78
+000000---------------PERTE BUY----------------
+Take Profit= 38355.0QT=0.02
+Enter Price = 38344.99
+Stop Lost = 38344.61QT=0.05
+Close Price = 38340.68
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38346.93QT=0.0
+Enter Price = 38336.55
+Stop Lost = 38326.0QT=0.56
+Close Price = 38350.26
+++++++++++++++GAIN SELL+++++++++++++ ito no tena mety satry ny TP +1 prix 
+Take Profit= 38349.21QT=0.0
+Enter Price = 38350.26
+Stop Lost = 38359.4QT=0.019535
+Close Price = 38347.75
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38333.94QT=0.0
+Enter Price = 38344.99
+Stop Lost = 38350.77QT=0.497076
+Close Price = 38355.17
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38326.19QT=0.0
+Enter Price = 38339.67
+Stop Lost = 38350.78QT=0.572333
+Close Price = 38355.17
+++++++++++++++GAIN SELL+++++++++++++ milay model !!!!!
+Take Profit= 38357.12QT=0.01
+Enter Price = 38358.58
+Stop Lost = 38359.86QT=0.13204
+Close Price = 38351.25
+++++++++++++++GAIN SELL+++++++++++++ tsy mety na gin aza 
+Take Profit= 38358.15QT=0.0
+Enter Price = 38358.58
+Stop Lost = 38366.53QT=0.37
+Close Price = 38347.76
+---------------PERTE BUY----------------
+Take Profit= 38354.5QT=0.0
+Enter Price = 38351.25
+Stop Lost = 38346.92QT=0.070674
+Close Price = 38341.45
+---------------PERTE BUY---------------- ##fanakaiky lotra le price d'entre sy ny stop lost
+Take Profit= 38345.62QT=0.002084
+Enter Price = 38340.09
+Stop Lost = 38340.07QT=1.334308
+Close Price = 38330.6
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38349.3QT=0.0
+Enter Price = 38349.65
+Stop Lost = 38355.64QT=2.238957
+Close Price = 38344.32
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38338.66QT=0.0
+Enter Price = 38349.65
+Stop Lost = 38355.74QT=0.022774
+Close Price = 38332.75
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38339.16QT=0.0
+Enter Price = 38340.9
+Stop Lost = 38348.39QT=3.313252
+Close Price = 38330.97
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38339.03QT=0.0
+Enter Price = 38340.9
+Stop Lost = 38343.12QT=0.164
+Close Price = 38330.97
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38339.15QT=0.0
+Enter Price = 38340.9
+Stop Lost = 38348.38QT=0.094309
+Close Price = 38330.97
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38339.02QT=0.000521
+Enter Price = 38340.9
+Stop Lost = 38341.82QT=0.464459
+Close Price = 38322.91
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38337.5QT=0.000262
+Enter Price = 38340.9
+Stop Lost = 38341.82QT=0.564224
+Close Price = 38322.91
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38319.37QT=0.013045
+Enter Price = 38322.91
+Stop Lost = 38331.01QT=0.365224
+Close Price = 38318.18
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38331.57QT=5.6e-05
+Enter Price = 38323.44
+Stop Lost = 38307.66QT=2.01411
+Close Price = 38331.85
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38337.49QT=0.0
+Enter Price = 38326.25
+Stop Lost = 38312.71QT=0.448421
+Close Price = 38338.33
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38335.5QT=0.0
+Enter Price = 38337.17
+Stop Lost = 38348.98QT=0.891511
+Close Price = 38330.08
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38335.17QT=0.0
+Enter Price = 38337.0
+Stop Lost = 38338.84QT=2.298226
+Close Price = 38330.08
+---------------PERTE BUY----------------
+Take Profit= 38338.28QT=0.013045
+Enter Price = 38330.08
+Stop Lost = 38323.65QT=0.75
+Close Price = 38323.21
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38326.45QT=0.0
+Enter Price = 38337.0
+Stop Lost = 38356.67QT=0.31
+Close Price = 38320.35
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38327.32QT=0.02
+Enter Price = 38330.08
+Stop Lost = 38336.33QT=0.815
+Close Price = 38320.35
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38329.0QT=0.02
+Enter Price = 38330.08
+Stop Lost = 38334.34QT=2.776873
+Close Price = 38320.34
+---------------PERTE BUY----------------
+Take Profit= 38345.94QT=0.0
+Enter Price = 38331.85
+Stop Lost = 38315.99QT=1.955627
+Close Price = 38314.18
+---------------PERTE BUY----------------
+Take Profit= 38334.11QT=0.0
+Enter Price = 38320.34
+Stop Lost = 38315.73QT=0.1
+Close Price = 38314.18
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38318.94QT=0.026084
+Enter Price = 38330.08
+Stop Lost = 38334.34QT=2.762852
+Close Price = 38314.18
+---------------PERTE BUY----------------
+Take Profit= 38325.5QT=0.0
+Enter Price = 38320.41
+Stop Lost = 38313.53QT=0.28441
+Close Price = 38306.8
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38320.03QT=0.002609
+Enter Price = 38323.21
+Stop Lost = 38338.28QT=0.283045
+Close Price = 38304.23
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38315.69QT=0.0
+Enter Price = 38320.54
+Stop Lost = 38330.64QT=1.417942
+Close Price = 38304.23
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38308.03QT=0.0
+Enter Price = 38320.54
+Stop Lost = 38330.64QT=0.602419
+Close Price = 38304.23
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38311.61QT=0.0
+Enter Price = 38314.18
+Stop Lost = 38319.88QT=7.600553
+Close Price = 38304.22
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38300.47QT=0.0
+Enter Price = 38304.23
+Stop Lost = 38312.16QT=1.616228
+Close Price = 38300.22
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38292.55QT=0.0
+Enter Price = 38304.23
+Stop Lost = 38312.64QT=0.741084
+Close Price = 38292.51
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38298.34QT=0.0
+Enter Price = 38300.01
+Stop Lost = 38310.45QT=1.265211
+Close Price = 38292.51
+---------------PERTE BUY----------------
+Take Profit= 38298.06QT=0.0
+Enter Price = 38292.51
+Stop Lost = 38291.99QT=0.005408
+Close Price = 38280.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38286.64QT=0.0
+Enter Price = 38304.23
+Stop Lost = 38312.64QT=0.518011
+Close Price = 38280.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38291.05QT=0.0
+Enter Price = 38292.51
+Stop Lost = 38292.74QT=2.65835
+Close Price = 38260.37
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38276.23QT=0.0
+Enter Price = 38278.15
+Stop Lost = 38292.21QT=0.174321
+Close Price = 38275.68
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38274.11QT=0.02
+Enter Price = 38275.31
+Stop Lost = 38281.01QT=0.697066
+Close Price = 38272.06
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38284.54QT=0.0
+Enter Price = 38272.06
+Stop Lost = 38270.03QT=0.0183
+Close Price = 38286.13
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38271.05QT=0.0183
+Enter Price = 38275.31
+Stop Lost = 38281.01QT=0.718976
+Close Price = 38282.9
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38257.64QT=0.0
+Enter Price = 38272.06
+Stop Lost = 38284.45QT=0.225
+Close Price = 38286.13
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38281.51QT=0.0
+Enter Price = 38282.91
+Stop Lost = 38291.46QT=2.663965
+Close Price = 38273.97
+---------------PERTE BUY----------------
+Take Profit= 38290.2QT=0.0
+Enter Price = 38272.06
+Stop Lost = 38271.08QT=0.04
+Close Price = 38268.96
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38273.43QT=0.0
+Enter Price = 38273.97
+Stop Lost = 38274.94QT=0.52279
+Close Price = 38268.19
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38267.6QT=0.0183
+Enter Price = 38273.97
+Stop Lost = 38277.69QT=0.808076
+Close Price = 38261.86
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38266.64QT=0.0
+Enter Price = 38268.19
+Stop Lost = 38272.01QT=0.576745
+Close Price = 38261.86
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38261.58QT=0.0
+Enter Price = 38261.86
+Stop Lost = 38266.74QT=0.1
+Close Price = 38255.93
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38263.89QT=0.0
+Enter Price = 38266.97
+Stop Lost = 38286.75QT=0.02
+Close Price = 38263.6
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38268.56QT=0.03
+Enter Price = 38271.48
+Stop Lost = 38283.99QT=0.284761
+Close Price = 38267.62
+---------------PERTE BUY----------------
+Take Profit= 38277.73QT=0.034845
+Enter Price = 38271.47
+Stop Lost = 38266.78QT=0.1
+Close Price = 38260.01
+---------------PERTE BUY----------------
+Take Profit= 38281.87QT=0.0
+Enter Price = 38271.47
+Stop Lost = 38264.09QT=0.33
+Close Price = 38260.01
+---------------PERTE BUY----------------
+Take Profit= 38283.29QT=0.01
+Enter Price = 38271.48
+Stop Lost = 38261.8QT=1.857
+Close Price = 38260.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38267.07QT=0.0
+Enter Price = 38271.47
+Stop Lost = 38277.73QT=0.195488
+Close Price = 38260.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38264.79QT=0.0
+Enter Price = 38267.62
+Stop Lost = 38277.73QT=0.658207
+Close Price = 38260.01
+---------------PERTE BUY----------------
+Take Profit= 38282.77QT=0.02
+Enter Price = 38271.48
+Stop Lost = 38258.98QT=0.56
+Close Price = 38252.24
+---------------PERTE BUY----------------
+Take Profit= 38266.2QT=0.01
+Enter Price = 38260.01
+Stop Lost = 38260.0QT=0.095395
+Close Price = 38252.5
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38255.28QT=0.0
+Enter Price = 38268.19
+Stop Lost = 38276.51QT=0.04
+Close Price = 38252.5
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38255.96QT=0.0
+Enter Price = 38271.22
+Stop Lost = 38277.73QT=0.922792
+Close Price = 38252.5
+---------------PERTE BUY----------------
+Take Profit= 38277.69QT=0.004823
+Enter Price = 38265.38
+Stop Lost = 38250.76QT=0.448421
+Close Price = 38248.88
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38250.62QT=0.005
+Enter Price = 38261.86
+Stop Lost = 38273.13QT=0.284863
+Close Price = 38248.88
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38261.45QT=0.0
+Enter Price = 38267.07
+Stop Lost = 38277.69QT=0.284806
+Close Price = 38253.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38253.49QT=0.0
+Enter Price = 38260.01
+Stop Lost = 38262.58QT=1.206727
+Close Price = 38253.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38245.55QT=0.0
+Enter Price = 38252.5
+Stop Lost = 38257.01QT=1.128152
+Close Price = 38260.01
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38249.15QT=0.0
+Enter Price = 38252.5
+Stop Lost = 38257.01QT=0.741408
+Close Price = 38260.47
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38240.76QT=0.0
+Enter Price = 38260.01
+Stop Lost = 38262.58QT=1.205868
+Close Price = 38264.1
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38251.79QT=0.03168
+Enter Price = 38252.24
+Stop Lost = 38262.58QT=1.115163
+Close Price = 38264.1
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38241.04QT=0.0
+Enter Price = 38252.5
+Stop Lost = 38261.14QT=0.06
+Close Price = 38264.1
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38262.61QT=0.0
+Enter Price = 38263.24
+Stop Lost = 38279.47QT=0.293
+Close Price = 38261.18
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38268.81QT=0.0
+Enter Price = 38256.84
+Stop Lost = 38254.54QT=0.201
+Close Price = 38271.89
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38278.0QT=0.02
+Enter Price = 38261.18
+Stop Lost = 38249.93QT=0.03168
+Close Price = 38280.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38281.56QT=0.0
+Enter Price = 38264.1
+Stop Lost = 38250.32QT=0.03168
+Close Price = 38283.95
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38250.68QT=0.0183
+Enter Price = 38263.6
+Stop Lost = 38277.73QT=0.509696
+Close Price = 38283.95
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38299.49QT=0.0
+Enter Price = 38283.95
+Stop Lost = 38267.88QT=0.46
+Close Price = 38304.22
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38297.99QT=0.013059
+Enter Price = 38282.44
+Stop Lost = 38281.78QT=0.3917
+Close Price = 38303.31
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38282.27QT=0.0
+Enter Price = 38282.44
+Stop Lost = 38294.15QT=0.601951
+Close Price = 38304.22
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38308.94QT=0.0
+Enter Price = 38289.99
+Stop Lost = 38287.38QT=0.652
+Close Price = 38311.39
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37210.3QT=0.0
+Enter Price = 37214.04
+Stop Lost = 37230.86QT=0.007232
+Close Price = 37192.77
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37206.66QT=0.002687
+Enter Price = 37215.0
+Stop Lost = 37228.93QT=2.088586
+Close Price = 37188.78
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37191.86QT=0.0
+Enter Price = 37192.77
+Stop Lost = 37198.17QT=3.577472
+Close Price = 37182.51
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37207.13QT=0.03
+Enter Price = 37207.28
+Stop Lost = 37218.26QT=1.367207
+Close Price = 37200.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37231.23QT=0.013425
+Enter Price = 37232.81
+Stop Lost = 37246.59QT=0.475701
+Close Price = 37230.72
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37229.44QT=0.0
+Enter Price = 37232.81
+Stop Lost = 37243.94QT=0.161119
+Close Price = 37227.49
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37215.52QT=0.000494
+Enter Price = 37223.99
+Stop Lost = 37236.99QT=0.28645
+Close Price = 37215.12
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37218.99QT=0.0
+Enter Price = 37221.43
+Stop Lost = 37234.62QT=0.386378
+Close Price = 37215.12
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37229.55QT=0.035
+Enter Price = 37224.04
+Stop Lost = 37212.46QT=0.4029
+Close Price = 37230.32
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37229.55QT=0.01
+Enter Price = 37215.12
+Stop Lost = 37213.4QT=0.4029
+Close Price = 37230.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37237.0QT=0.027001
+Enter Price = 37223.99
+Stop Lost = 37210.33QT=0.406162
+Close Price = 37242.97
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37234.49QT=0.022111
+Enter Price = 37216.62
+Stop Lost = 37207.86QT=0.04
+Close Price = 37235.45
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37238.63QT=0.0
+Enter Price = 37224.1
+Stop Lost = 37209.34QT=0.4029
+Close Price = 37245.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37243.69QT=0.011328
+Enter Price = 37245.0
+Stop Lost = 37245.81QT=0.33
+Close Price = 37226.26
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37202.93QT=0.0
+Enter Price = 37219.3
+Stop Lost = 37230.71QT=1.583935
+Close Price = 37231.54
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37250.0QT=0.013477
+Enter Price = 37255.31
+Stop Lost = 37257.07QT=0.069006
+Close Price = 37242.8
+---------------PERTE BUY----------------
+Take Profit= 37274.32QT=0.0
+Enter Price = 37255.31
+Stop Lost = 37253.51QT=0.40162
+Close Price = 37242.8
+---------------PERTE BUY----------------
+Take Profit= 37253.49QT=0.0
+Enter Price = 37242.8
+Stop Lost = 37234.42QT=0.40268
+Close Price = 37234.22
+---------------PERTE BUY----------------
+Take Profit= 37259.86QT=0.0
+Enter Price = 37239.99
+Stop Lost = 37232.76QT=1.0
+Close Price = 37232.46
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37223.3QT=0.0
+Enter Price = 37223.53
+Stop Lost = 37237.74QT=2.205542
+Close Price = 37220.0
+---------------PERTE BUY----------------
+Take Profit= 37237.74QT=0.020575
+Enter Price = 37220.0
+Stop Lost = 37213.12QT=0.09
+Close Price = 37209.16
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37214.88QT=0.0
+Enter Price = 37216.06
+Stop Lost = 37236.02QT=0.541777
+Close Price = 37214.62
+---------------PERTE BUY----------------
+Take Profit= 37236.48QT=0.00126
+Enter Price = 37218.18
+Stop Lost = 37212.06QT=1.0
+Close Price = 37210.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37212.49QT=0.0
+Enter Price = 37218.16
+Stop Lost = 37237.81QT=0.177279
+Close Price = 37210.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37214.42QT=0.0
+Enter Price = 37220.97
+Stop Lost = 37236.04QT=0.014252
+Close Price = 37210.01
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37232.96QT=0.0
+Enter Price = 37218.18
+Stop Lost = 37203.93QT=0.092794
+Close Price = 37236.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37242.75QT=0.0
+Enter Price = 37246.62
+Stop Lost = 37249.43QT=2.781304
+Close Price = 37230.22
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37243.31QT=0.0
+Enter Price = 37244.01
+Stop Lost = 37256.87QT=0.02
+Close Price = 37230.22
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37229.11QT=0.0
+Enter Price = 37244.01
+Stop Lost = 37249.43QT=0.520114
+Close Price = 37228.95
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37225.0QT=0.001
+Enter Price = 37228.75
+Stop Lost = 37247.62QT=0.04
+Close Price = 37222.16
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37210.61QT=0.0
+Enter Price = 37215.61
+Stop Lost = 37223.26QT=2.778532
+Close Price = 37203.38
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37208.59QT=0.0
+Enter Price = 37208.65
+Stop Lost = 37224.29QT=1.612848
+Close Price = 37201.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37206.98QT=0.0183
+Enter Price = 37208.65
+Stop Lost = 37220.55QT=2.324627
+Close Price = 37201.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37200.58QT=0.0
+Enter Price = 37200.7
+Stop Lost = 37219.94QT=0.811303
+Close Price = 37200.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37190.77QT=0.0
+Enter Price = 37208.65
+Stop Lost = 37228.29QT=2.840736
+Close Price = 37188.89
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37196.73QT=0.0
+Enter Price = 37200.7
+Stop Lost = 37213.18QT=0.203871
+Close Price = 37188.89
+---------------PERTE BUY----------------
+Take Profit= 37288.37QT=0.0
+Enter Price = 37281.0
+Stop Lost = 37280.02QT=0.194596
+Close Price = 37275.76
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37280.43QT=0.0
+Enter Price = 37281.0
+Stop Lost = 37284.19QT=0.187173
+Close Price = 37275.76
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37277.04QT=0.0
+Enter Price = 37281.0
+Stop Lost = 37282.56QT=0.35246
+Close Price = 37274.35
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37266.24QT=0.0
+Enter Price = 37274.35
+Stop Lost = 37279.9QT=0.701619
+Close Price = 37281.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37325.25QT=0.032
+Enter Price = 37334.57
+Stop Lost = 37338.14QT=0.072444
+Close Price = 37344.05
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37313.98QT=0.0
+Enter Price = 37328.1
+Stop Lost = 37330.03QT=0.784848
+Close Price = 37311.41
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37283.27QT=0.0
+Enter Price = 37266.44
+Stop Lost = 37263.9QT=0.01341
+Close Price = 37283.47
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37262.31QT=0.0
+Enter Price = 37270.55
+Stop Lost = 37283.82QT=0.003301
+Close Price = 37287.43
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37287.11QT=0.0
+Enter Price = 37287.43
+Stop Lost = 37300.0QT=0.323635
+Close Price = 37283.46
+---------------PERTE BUY----------------
+Take Profit= 37286.96QT=0.0
+Enter Price = 37275.71
+Stop Lost = 37275.45QT=0.091251
+Close Price = 37270.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37329.58QT=0.000535
+Enter Price = 37330.57
+Stop Lost = 37337.15QT=0.927626
+Close Price = 37316.41
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37322.41QT=0.000535
+Enter Price = 37329.24
+Stop Lost = 37329.45QT=0.04
+Close Price = 37314.51
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37311.41QT=0.0
+Enter Price = 37323.61
+Stop Lost = 37330.22QT=1.72727
+Close Price = 37302.68
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37302.04QT=0.0
+Enter Price = 37302.68
+Stop Lost = 37313.55QT=1.489018
+Close Price = 37294.69
+---------------PERTE BUY----------------
+Take Profit= 37311.62QT=0.0
+Enter Price = 37297.0
+Stop Lost = 37294.64QT=0.292156
+Close Price = 37288.87
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37289.66QT=0.0
+Enter Price = 37297.0
+Stop Lost = 37303.81QT=2.981749
+Close Price = 37288.87
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37287.63QT=0.013403
+Enter Price = 37297.0
+Stop Lost = 37303.81QT=1.681749
+Close Price = 37286.16
+---------------PERTE BUY----------------
+Take Profit= 37299.41QT=0.0
+Enter Price = 37284.71
+Stop Lost = 37269.28QT=0.3
+Close Price = 37269.12
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37263.91QT=0.0
+Enter Price = 37265.01
+Stop Lost = 37282.8QT=0.448534
+Close Price = 37261.68
+---------------PERTE BUY----------------
+Take Profit= 37305.0QT=0.01
+Enter Price = 37292.6
+Stop Lost = 37288.37QT=0.386206
+Close Price = 37284.02
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37282.8QT=0.00221
+Enter Price = 37292.6
+Stop Lost = 37300.02QT=0.004138
+Close Price = 37280.37
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37294.78QT=0.0
+Enter Price = 37307.6
+Stop Lost = 37320.97QT=0.718321
+Close Price = 37294.72
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37297.55QT=0.0
+Enter Price = 37302.61
+Stop Lost = 37317.09QT=0.013158
+Close Price = 37293.94
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37287.61QT=0.0
+Enter Price = 37307.6
+Stop Lost = 37320.97QT=0.723206
+Close Price = 37321.89
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37301.99QT=0.0
+Enter Price = 37315.28
+Stop Lost = 37324.25QT=1.763985
+Close Price = 37300.09
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37313.98QT=0.01853
+Enter Price = 37315.28
+Stop Lost = 37330.27QT=0.10441
+Close Price = 37300.09
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37314.02QT=0.018529
+Enter Price = 37315.28
+Stop Lost = 37315.87QT=0.133496
+Close Price = 37294.71
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37273.34QT=0.0
+Enter Price = 37281.77
+Stop Lost = 37297.3QT=0.151369
+Close Price = 37272.63
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37268.99QT=0.0
+Enter Price = 37271.0
+Stop Lost = 37283.65QT=3.559792
+Close Price = 37264.35
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37260.55QT=0.001
+Enter Price = 37271.0
+Stop Lost = 37283.65QT=3.560524
+Close Price = 37260.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37260.39QT=0.027971
+Enter Price = 37264.35
+Stop Lost = 37280.92QT=0.15503
+Close Price = 37260.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37266.31QT=0.0
+Enter Price = 37272.87
+Stop Lost = 37285.28QT=0.067991
+Close Price = 37262.36
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37261.63QT=0.0
+Enter Price = 37266.0
+Stop Lost = 37285.28QT=3.422215
+Close Price = 37261.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37249.92QT=0.027969
+Enter Price = 37264.35
+Stop Lost = 37280.9QT=1.884093
+Close Price = 37249.24
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37249.63QT=0.0
+Enter Price = 37253.48
+Stop Lost = 37270.58QT=1.450222
+Close Price = 37249.24
+---------------PERTE BUY----------------
+Take Profit= 37278.57QT=0.0
+Enter Price = 37264.18
+Stop Lost = 37260.62QT=0.1
+Close Price = 37256.68
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37275.26QT=0.0
+Enter Price = 37287.85
+Stop Lost = 37297.61QT=1.794993
+Close Price = 37306.28
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37305.62QT=0.0
+Enter Price = 37310.96
+Stop Lost = 37314.92QT=1.257628
+Close Price = 37304.63
+---------------PERTE BUY----------------
+Take Profit= 37304.7QT=0.0
+Enter Price = 37301.75
+Stop Lost = 37300.01QT=0.103498
+Close Price = 37287.16
+---------------PERTE BUY----------------
+Take Profit= 37308.92QT=0.0
+Enter Price = 37301.75
+Stop Lost = 37301.03QT=0.298594
+Close Price = 37287.16
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37319.85QT=0.0
+Enter Price = 37304.3
+Stop Lost = 37286.57QT=0.027944
+Close Price = 37319.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37319.84QT=0.0
+Enter Price = 37304.29
+Stop Lost = 37286.65QT=0.027944
+Close Price = 37319.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37292.66QT=0.029652
+Enter Price = 37303.0
+Stop Lost = 37315.47QT=2.176425
+Close Price = 37329.11
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37361.84QT=0.000535
+Enter Price = 37364.99
+Stop Lost = 37367.0QT=0.01035
+Close Price = 37351.58
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37341.2QT=0.02791
+Enter Price = 37351.5
+Stop Lost = 37364.4QT=0.820064
+Close Price = 37339.9
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37348.15QT=0.0
+Enter Price = 37367.36
+Stop Lost = 37381.0QT=12.933174
+Close Price = 37347.55
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37370.57QT=0.0
+Enter Price = 37372.58
+Stop Lost = 37391.8QT=0.000551
+Close Price = 37368.2
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37372.16QT=0.0
+Enter Price = 37375.34
+Stop Lost = 37390.48QT=0.001234
+Close Price = 37371.09
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37390.48QT=0.000337
+Enter Price = 37372.41
+Stop Lost = 37365.52QT=0.191
+Close Price = 37397.01
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37356.86QT=0.0
+Enter Price = 37366.01
+Stop Lost = 37381.15QT=1.592113
+Close Price = 37397.01
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37356.14QT=0.0
+Enter Price = 37372.83
+Stop Lost = 37390.48QT=1.062828
+Close Price = 37397.01
+---------------PERTE BUY----------------
+Take Profit= 37414.27QT=0.006473
+Enter Price = 37398.21
+Stop Lost = 37386.65QT=1.003902
+Close Price = 37379.46
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37390.0QT=0.02
+Enter Price = 37397.53
+Stop Lost = 37397.65QT=0.27
+Close Price = 37379.46
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37364.91QT=0.0
+Enter Price = 37367.95
+Stop Lost = 37381.06QT=1.537651
+Close Price = 37362.32
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37360.56QT=0.0
+Enter Price = 37367.95
+Stop Lost = 37381.06QT=2.287651
+Close Price = 37383.38
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37383.2QT=0.0
+Enter Price = 37383.38
+Stop Lost = 37386.59QT=3.468648
+Close Price = 37380.19
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37383.22QT=0.0
+Enter Price = 37383.38
+Stop Lost = 37396.14QT=0.56
+Close Price = 37368.74
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37367.22QT=0.0
+Enter Price = 37380.19
+Stop Lost = 37383.24QT=1.568715
+Close Price = 37367.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37348.96QT=0.0183
+Enter Price = 37353.77
+Stop Lost = 37364.17QT=4.105045
+Close Price = 37347.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37322.96QT=0.0
+Enter Price = 37327.61
+Stop Lost = 37347.01QT=4.440034
+Close Price = 37321.04
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37318.21QT=0.002679
+Enter Price = 37324.16
+Stop Lost = 37342.35QT=1.504778
+Close Price = 37343.09
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37320.42QT=0.0
+Enter Price = 37330.97
+Stop Lost = 37347.75QT=0.435283
+Close Price = 37348.46
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37347.98QT=0.0
+Enter Price = 37348.46
+Stop Lost = 37360.98QT=0.004606
+Close Price = 37344.84
+---------------PERTE BUY----------------
+Take Profit= 37350.38QT=0.0
+Enter Price = 37341.05
+Stop Lost = 37340.02QT=0.167561
+Close Price = 37330.5
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37331.51QT=0.0
+Enter Price = 37340.5
+Stop Lost = 37360.02QT=0.765933
+Close Price = 37330.5
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37326.81QT=0.002679
+Enter Price = 37340.5
+Stop Lost = 37360.02QT=0.926021
+Close Price = 37325.63
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37321.81QT=0.0
+Enter Price = 37325.43
+Stop Lost = 37343.02QT=0.319825
+Close Price = 37319.6
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37318.88QT=0.029652
+Enter Price = 37325.63
+Stop Lost = 37343.02QT=0.825656
+Close Price = 37316.66
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37314.1QT=0.0
+Enter Price = 37318.02
+Stop Lost = 37337.98QT=3.695336
+Close Price = 37313.76
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37313.59QT=0.0
+Enter Price = 37317.14
+Stop Lost = 37332.24QT=1.265626
+Close Price = 37311.04
+---------------PERTE BUY----------------
+Take Profit= 37319.84QT=0.02
+Enter Price = 37314.02
+Stop Lost = 37312.6QT=1.433333
+Close Price = 37295.75
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37303.79QT=0.0
+Enter Price = 37314.99
+Stop Lost = 37333.34QT=4.783863
+Close Price = 37295.75
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37302.89QT=0.0
+Enter Price = 37306.11
+Stop Lost = 37325.46QT=0.038914
+Close Price = 37295.75
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37312.6QT=0.0
+Enter Price = 37314.02
+Stop Lost = 37316.92QT=2.946959
+Close Price = 37294.74
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37291.78QT=0.0
+Enter Price = 37294.74
+Stop Lost = 37308.35QT=0.065814
+Close Price = 37290.71
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37279.67QT=0.001
+Enter Price = 37284.17
+Stop Lost = 37300.01QT=0.773138
+Close Price = 37311.48
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37279.49QT=0.0
+Enter Price = 37295.55
+Stop Lost = 37311.63QT=0.005729
+Close Price = 37315.64
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37298.5QT=0.005333
+Enter Price = 37313.87
+Stop Lost = 37332.01QT=3.110691
+Close Price = 37336.78
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37321.35QT=0.0
+Enter Price = 37323.13
+Stop Lost = 37341.91QT=0.482452
+Close Price = 37320.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37315.83QT=0.001338
+Enter Price = 37321.41
+Stop Lost = 37339.3QT=0.500632
+Close Price = 37339.46
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37312.05QT=0.0
+Enter Price = 37323.77
+Stop Lost = 37341.91QT=0.737341
+Close Price = 37344.81
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37316.56QT=0.0
+Enter Price = 37323.13
+Stop Lost = 37340.8QT=0.000545
+Close Price = 37344.81
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37357.26QT=0.009452
+Enter Price = 37339.95
+Stop Lost = 37328.26QT=0.454341
+Close Price = 37358.41
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37320.0QT=0.002744
+Enter Price = 37338.99
+Stop Lost = 37355.46QT=0.616974
+Close Price = 37356.49
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37318.51QT=0.0
+Enter Price = 37338.29
+Stop Lost = 37350.16QT=0.157488
+Close Price = 37356.49
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37357.25QT=0.0
+Enter Price = 37358.35
+Stop Lost = 37370.54QT=0.007427
+Close Price = 37355.49
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37353.57QT=0.0
+Enter Price = 37355.51
+Stop Lost = 37372.22QT=0.052592
+Close Price = 37351.85
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37349.99QT=0.0
+Enter Price = 37355.69
+Stop Lost = 37373.01QT=0.278086
+Close Price = 37346.9
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37343.47QT=0.0
+Enter Price = 37354.01
+Stop Lost = 37369.42QT=0.811284
+Close Price = 37338.28
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37341.01QT=0.0
+Enter Price = 37355.5
+Stop Lost = 37374.62QT=0.59973
+Close Price = 37338.28
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37338.19QT=0.0
+Enter Price = 37351.51
+Stop Lost = 37369.42QT=0.761155
+Close Price = 37334.98
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37334.64QT=0.000669
+Enter Price = 37351.51
+Stop Lost = 37369.42QT=0.601304
+Close Price = 37333.69
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37334.64QT=0.0
+Enter Price = 37338.28
+Stop Lost = 37352.02QT=0.153707
+Close Price = 37333.69
+---------------PERTE BUY----------------
+Take Profit= 37336.24QT=0.017664
+Enter Price = 37318.67
+Stop Lost = 37318.36QT=0.476888
+Close Price = 37316.66
+---------------PERTE BUY----------------
+Take Profit= 37336.24QT=0.022127
+Enter Price = 37316.66
+Stop Lost = 37316.01QT=0.027942
+Close Price = 37313.54
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37301.81QT=0.0
+Enter Price = 37316.66
+Stop Lost = 37336.24QT=0.023651
+Close Price = 37300.09
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37284.64QT=0.0
+Enter Price = 37287.33
+Stop Lost = 37302.09QT=0.300165
+Close Price = 37283.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37282.75QT=0.0
+Enter Price = 37287.33
+Stop Lost = 37302.09QT=0.235418
+Close Price = 37282.18
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37292.61QT=0.004243
+Enter Price = 37292.9
+Stop Lost = 37309.02QT=1.806564
+Close Price = 37292.51
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37291.82QT=0.0
+Enter Price = 37292.5
+Stop Lost = 37310.0QT=0.54728
+Close Price = 37288.52
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37289.83QT=0.0
+Enter Price = 37292.51
+Stop Lost = 37311.23QT=0.292164
+Close Price = 37288.52
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37287.58QT=0.0
+Enter Price = 37292.51
+Stop Lost = 37308.7QT=0.820598
+Close Price = 37287.53
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37283.12QT=0.0
+Enter Price = 37292.9
+Stop Lost = 37309.02QT=2.319463
+Close Price = 37282.48
+---------------PERTE BUY----------------
+Take Profit= 37292.92QT=0.0
+Enter Price = 37280.8
+Stop Lost = 37276.15QT=0.079956
+Close Price = 37270.64
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37271.1QT=0.0
+Enter Price = 37280.0
+Stop Lost = 37299.6QT=1.646264
+Close Price = 37270.64
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37278.24QT=0.0
+Enter Price = 37292.5
+Stop Lost = 37309.5QT=3.255588
+Close Price = 37270.66
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37271.75QT=0.0
+Enter Price = 37280.8
+Stop Lost = 37285.67QT=0.318376
+Close Price = 37270.66
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37277.9QT=0.0
+Enter Price = 37281.19
+Stop Lost = 37298.96QT=0.133538
+Close Price = 37273.47
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37271.0QT=0.0
+Enter Price = 37281.19
+Stop Lost = 37290.19QT=0.002661
+Close Price = 37270.81
+---------------PERTE BUY----------------
+Take Profit= 37288.91QT=0.010043
+Enter Price = 37270.36
+Stop Lost = 37270.01QT=0.40231
+Close Price = 37268.29
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37269.59QT=0.0
+Enter Price = 37272.98
+Stop Lost = 37291.96QT=0.292346
+Close Price = 37268.29
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37261.02QT=0.015546
+Enter Price = 37263.74
+Stop Lost = 37278.27QT=0.22528
+Close Price = 37281.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37270.0QT=0.004654
+Enter Price = 37279.98
+Stop Lost = 37297.07QT=1.035738
+Close Price = 37269.4
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37275.33QT=0.0
+Enter Price = 37276.12
+Stop Lost = 37288.86QT=1.021899
+Close Price = 37274.26
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37270.45QT=0.0
+Enter Price = 37280.8
+Stop Lost = 37292.82QT=3.79618
+Close Price = 37269.91
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37268.1QT=0.0
+Enter Price = 37272.99
+Stop Lost = 37284.66QT=6.352199
+Close Price = 37268.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37263.06QT=0.0
+Enter Price = 37263.34
+Stop Lost = 37279.21QT=3.037906
+Close Price = 37262.92
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37260.94QT=0.0
+Enter Price = 37265.04
+Stop Lost = 37282.79QT=2.938775
+Close Price = 37260.77
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37262.19QT=0.005335
+Enter Price = 37263.01
+Stop Lost = 37276.43QT=2.192531
+Close Price = 37260.81
+---------------PERTE BUY----------------
+Take Profit= 37284.42QT=0.002333
+Enter Price = 37270.07
+Stop Lost = 37265.87QT=0.005335
+Close Price = 37261.61
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37269.17QT=0.0
+Enter Price = 37272.98
+Stop Lost = 37287.82QT=0.596977
+Close Price = 37261.61
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37260.03QT=0.027945
+Enter Price = 37263.23
+Stop Lost = 37279.21QT=2.981174
+Close Price = 37260.02
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37266.29QT=0.0
+Enter Price = 37272.98
+Stop Lost = 37284.45QT=1.228202
+Close Price = 37260.02
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37266.47QT=0.0
+Enter Price = 37272.47
+Stop Lost = 37284.44QT=0.070866
+Close Price = 37260.02
+---------------PERTE BUY----------------
+Take Profit= 37279.97QT=0.0
+Enter Price = 37263.28
+Stop Lost = 37257.76QT=0.75
+Close Price = 37257.1
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37258.32QT=0.005336
+Enter Price = 37268.0
+Stop Lost = 37284.66QT=4.663207
+Close Price = 37256.85
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37251.37QT=0.0
+Enter Price = 37260.02
+Stop Lost = 37274.06QT=0.724899
+Close Price = 37274.25
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37258.56QT=0.0
+Enter Price = 37260.02
+Stop Lost = 37276.45QT=0.399682
+Close Price = 37258.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37269.16QT=0.0
+Enter Price = 37272.36
+Stop Lost = 37286.98QT=0.001339
+Close Price = 37265.66
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37262.99QT=0.0
+Enter Price = 37265.99
+Stop Lost = 37284.72QT=4.198601
+Close Price = 37262.31
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37255.37QT=0.000671
+Enter Price = 37259.04
+Stop Lost = 37275.31QT=0.228633
+Close Price = 37276.32
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37254.76QT=0.0
+Enter Price = 37260.77
+Stop Lost = 37277.17QT=2.896829
+Close Price = 37279.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37246.9QT=0.0
+Enter Price = 37260.78
+Stop Lost = 37277.17QT=3.78745
+Close Price = 37279.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37253.76QT=0.0
+Enter Price = 37260.81
+Stop Lost = 37279.21QT=0.011354
+Close Price = 37280.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37248.28QT=0.0
+Enter Price = 37263.23
+Stop Lost = 37279.21QT=2.481174
+Close Price = 37280.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37253.26QT=0.0
+Enter Price = 37260.42
+Stop Lost = 37279.19QT=1.513405
+Close Price = 37279.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37251.52QT=0.0
+Enter Price = 37262.92
+Stop Lost = 37282.41QT=0.292388
+Close Price = 37283.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37252.53QT=0.027956
+Enter Price = 37264.65
+Stop Lost = 37283.71QT=0.553376
+Close Price = 37283.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37247.1QT=0.0
+Enter Price = 37265.99
+Stop Lost = 37284.72QT=4.198014
+Close Price = 37285.34
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37278.27QT=0.0
+Enter Price = 37280.01
+Stop Lost = 37288.23QT=0.225
+Close Price = 37269.68
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37251.9QT=0.0
+Enter Price = 37252.88
+Stop Lost = 37269.65QT=4.385133
+Close Price = 37247.57
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37248.25QT=0.0
+Enter Price = 37252.88
+Stop Lost = 37269.65QT=4.46616
+Close Price = 37245.72
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37237.49QT=0.0
+Enter Price = 37254.01
+Stop Lost = 37271.69QT=1.488123
+Close Price = 37235.87
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37219.72QT=0.0
+Enter Price = 37227.21
+Stop Lost = 37246.4QT=3.289977
+Close Price = 37218.3
+---------------PERTE BUY----------------
+Take Profit= 37251.1QT=0.002284
+Enter Price = 37233.5
+Stop Lost = 37225.49QT=0.5
+Close Price = 37221.17
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37223.51QT=0.0
+Enter Price = 37233.5
+Stop Lost = 37251.06QT=2.169639
+Close Price = 37218.46
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37225.64QT=0.0
+Enter Price = 37228.76
+Stop Lost = 37248.43QT=0.007191
+Close Price = 37225.5
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37218.19QT=0.0
+Enter Price = 37230.07
+Stop Lost = 37249.98QT=1.934481
+Close Price = 37217.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37213.06QT=0.0
+Enter Price = 37222.38
+Stop Lost = 37241.14QT=0.738786
+Close Price = 37212.39
+---------------PERTE BUY----------------
+Take Profit= 37238.8QT=0.001422
+Enter Price = 37219.5
+Stop Lost = 37204.51QT=0.454236
+Close Price = 37202.37
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37201.29QT=0.0
+Enter Price = 37209.41
+Stop Lost = 37228.29QT=1.801739
+Close Price = 37200.97
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37250.9QT=0.03
+Enter Price = 37258.33
+Stop Lost = 37274.86QT=0.71953
+Close Price = 37250.01
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37240.08QT=0.001343
+Enter Price = 37258.33
+Stop Lost = 37274.86QT=0.861887
+Close Price = 37275.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37250.17QT=0.0
+Enter Price = 37261.49
+Stop Lost = 37273.91QT=2.536435
+Close Price = 37243.31
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37300.8QT=0.0
+Enter Price = 37312.98
+Stop Lost = 37323.92QT=0.113778
+Close Price = 37296.02
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37296.82QT=0.0
+Enter Price = 37310.4
+Stop Lost = 37313.49QT=0.79175
+Close Price = 37296.02
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37283.05QT=0.0
+Enter Price = 37293.06
+Stop Lost = 37310.84QT=0.646934
+Close Price = 37281.37
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37282.74QT=0.0
+Enter Price = 37289.71
+Stop Lost = 37302.66QT=1.402567
+Close Price = 37282.48
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37302.66QT=0.024797
+Enter Price = 37283.83
+Stop Lost = 37281.45QT=0.314676
+Close Price = 37303.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37315.87QT=0.0
+Enter Price = 37317.28
+Stop Lost = 37332.35QT=1.990544
+Close Price = 37310.49
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37302.65QT=0.0
+Enter Price = 37320.05
+Stop Lost = 37339.33QT=0.002001
+Close Price = 37292.63
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37275.9QT=0.0
+Enter Price = 37283.33
+Stop Lost = 37291.51QT=0.483891
+Close Price = 37273.74
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37273.11QT=0.0
+Enter Price = 37284.89
+Stop Lost = 37300.01QT=1.356288
+Close Price = 37270.91
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37275.51QT=0.0
+Enter Price = 37286.55
+Stop Lost = 37303.41QT=0.274352
+Close Price = 37274.95
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37396.95QT=0.0
+Enter Price = 37398.74
+Stop Lost = 37412.0QT=3.834899
+Close Price = 37373.09
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37353.1QT=0.0
+Enter Price = 37363.39
+Stop Lost = 37376.28QT=0.452974
+Close Price = 37379.2
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37422.96QT=0.0
+Enter Price = 37424.99
+Stop Lost = 37429.82QT=2.387193
+Close Price = 37407.13
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37417.52QT=0.001335
+Enter Price = 37429.94
+Stop Lost = 37449.49QT=4.308689
+Close Price = 37417.19
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37310.81QT=0.0
+Enter Price = 37322.17
+Stop Lost = 37336.28QT=4.079159
+Close Price = 37307.95
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37326.32QT=0.0
+Enter Price = 37327.15
+Stop Lost = 37341.94QT=6.963582
+Close Price = 37313.75
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37300.01QT=0.002339
+Enter Price = 37313.75
+Stop Lost = 37333.56QT=0.390062
+Close Price = 37343.25
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37388.57QT=0.003285
+Enter Price = 37391.26
+Stop Lost = 37406.42QT=0.832761
+Close Price = 37388.34
+---------------PERTE BUY----------------
+Take Profit= 37374.83QT=0.038215
+Enter Price = 37371.01
+Stop Lost = 37362.93QT=0.060048
+Close Price = 37350.04
+---------------PERTE BUY----------------
+Take Profit= 37374.84QT=0.0
+Enter Price = 37371.01
+Stop Lost = 37367.57QT=1.0
+Close Price = 37349.76
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37359.38QT=0.0
+Enter Price = 37374.44
+Stop Lost = 37393.52QT=1.204207
+Close Price = 37349.76
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37346.54QT=0.001338
+Enter Price = 37350.01
+Stop Lost = 37367.63QT=3.185715
+Close Price = 37346.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37274.88QT=0.0
+Enter Price = 37285.01
+Stop Lost = 37295.31QT=0.275258
+Close Price = 37271.6
+---------------PERTE BUY----------------
+Take Profit= 37308.7QT=0.035
+Enter Price = 37293.7
+Stop Lost = 37292.8QT=0.498252
+Close Price = 37289.24
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37283.57QT=0.0
+Enter Price = 37288.74
+Stop Lost = 37307.99QT=3.481412
+Close Price = 37283.5
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37281.35QT=0.0
+Enter Price = 37290.02
+Stop Lost = 37306.66QT=0.746103
+Close Price = 37281.18
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37276.01QT=0.0
+Enter Price = 37280.18
+Stop Lost = 37300.01QT=0.358124
+Close Price = 37275.65
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37273.55QT=0.0
+Enter Price = 37290.48
+Stop Lost = 37310.0QT=2.27681
+Close Price = 37273.2
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37274.64QT=0.0
+Enter Price = 37282.39
+Stop Lost = 37299.49QT=2.022839
+Close Price = 37272.71
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37269.29QT=0.0
+Enter Price = 37279.16
+Stop Lost = 37297.98QT=1.281143
+Close Price = 37265.79
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37264.65QT=0.0
+Enter Price = 37269.04
+Stop Lost = 37289.01QT=2.030384
+Close Price = 37264.23
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37255.87QT=0.0
+Enter Price = 37257.38
+Stop Lost = 37276.01QT=1.477341
+Close Price = 37254.71
+---------------PERTE BUY----------------
+Take Profit= 37281.93QT=0.0
+Enter Price = 37264.11
+Stop Lost = 37263.3QT=0.282584
+Close Price = 37259.66
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37255.66QT=0.0
+Enter Price = 37257.38
+Stop Lost = 37276.01QT=0.154196
+Close Price = 37255.54
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37263.32QT=0.03
+Enter Price = 37263.54
+Stop Lost = 37280.15QT=2.952217
+Close Price = 37255.54
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37261.13QT=0.0
+Enter Price = 37263.54
+Stop Lost = 37280.15QT=3.369535
+Close Price = 37255.11
+---------------PERTE BUY----------------
+Take Profit= 37270.02QT=0.011502
+Enter Price = 37252.0
+Stop Lost = 37251.14QT=0.055972
+Close Price = 37250.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37248.74QT=0.0
+Enter Price = 37260.56
+Stop Lost = 37280.3QT=0.284637
+Close Price = 37246.29
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37241.6QT=0.0
+Enter Price = 37257.51
+Stop Lost = 37276.39QT=0.614216
+Close Price = 37237.04
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37270.64QT=0.0
+Enter Price = 37281.89
+Stop Lost = 37295.21QT=3.140477
+Close Price = 37267.1
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37256.43QT=0.0
+Enter Price = 37256.61
+Stop Lost = 37274.66QT=3.815192
+Close Price = 37253.22
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37251.49QT=0.0
+Enter Price = 37264.97
+Stop Lost = 37282.7QT=0.525
+Close Price = 37250.36
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37252.07QT=0.0
+Enter Price = 37265.21
+Stop Lost = 37280.82QT=3.861476
+Close Price = 37250.36
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37250.01QT=0.0
+Enter Price = 37258.91
+Stop Lost = 37275.98QT=2.814687
+Close Price = 37281.61
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37255.99QT=0.0
+Enter Price = 37259.99
+Stop Lost = 37277.78QT=0.615186
+Close Price = 37281.61
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37273.9QT=0.0
+Enter Price = 37286.05
+Stop Lost = 37303.27QT=0.048105
+Close Price = 37307.09
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37290.51QT=0.0
+Enter Price = 37291.91
+Stop Lost = 37308.31QT=1.373221
+Close Price = 37308.74
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37287.49QT=0.004283
+Enter Price = 37291.92
+Stop Lost = 37308.31QT=0.807307
+Close Price = 37308.74
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37287.49QT=0.0
+Enter Price = 37291.9
+Stop Lost = 37308.31QT=4.321661
+Close Price = 37309.02
+---------------PERTE BUY----------------
+Take Profit= 37322.74QT=0.002848
+Enter Price = 37309.02
+Stop Lost = 37308.34QT=0.128849
+Close Price = 37306.45
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37297.45QT=0.0
+Enter Price = 37308.0
+Stop Lost = 37319.27QT=4.190709
+Close Price = 37321.13
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37284.83QT=0.0
+Enter Price = 37301.68
+Stop Lost = 37319.31QT=0.002912
+Close Price = 37321.13
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37300.0QT=0.016361
+Enter Price = 37308.0
+Stop Lost = 37321.23QT=0.263994
+Close Price = 37321.77
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37303.02QT=0.0
+Enter Price = 37309.01
+Stop Lost = 37322.68QT=2.017864
+Close Price = 37323.06
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37302.97QT=0.0
+Enter Price = 37313.36
+Stop Lost = 37327.53QT=1.868083
+Close Price = 37331.75
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37300.0QT=0.032236
+Enter Price = 37313.35
+Stop Lost = 37326.29QT=0.302837
+Close Price = 37331.75
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37294.47QT=0.012016
+Enter Price = 37313.34
+Stop Lost = 37326.29QT=0.795715
+Close Price = 37331.75
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37310.05QT=0.0
+Enter Price = 37322.59
+Stop Lost = 37334.4QT=2.268962
+Close Price = 37306.45
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37308.88QT=0.0
+Enter Price = 37309.5
+Stop Lost = 37324.1QT=2.920263
+Close Price = 37308.03
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37295.3QT=0.0
+Enter Price = 37315.01
+Stop Lost = 37326.1QT=0.455002
+Close Price = 37331.66
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37305.1QT=0.0
+Enter Price = 37309.5
+Stop Lost = 37327.98QT=0.608696
+Close Price = 37329.65
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37323.58QT=0.0
+Enter Price = 37331.66
+Stop Lost = 37343.26QT=3.031363
+Close Price = 37323.54
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37328.36QT=0.003514
+Enter Price = 37328.95
+Stop Lost = 37344.99QT=2.982717
+Close Price = 37326.89
+---------------PERTE BUY----------------
+Take Profit= 37345.0QT=0.002752
+Enter Price = 37327.54
+Stop Lost = 37324.47QT=0.03
+Close Price = 37322.84
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37323.82QT=0.0
+Enter Price = 37325.47
+Stop Lost = 37343.32QT=2.472104
+Close Price = 37321.87
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37305.18QT=0.0
+Enter Price = 37318.73
+Stop Lost = 37332.03QT=2.144406
+Close Price = 37332.82
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37302.5QT=0.0
+Enter Price = 37321.11
+Stop Lost = 37332.03QT=3.252992
+Close Price = 37332.82
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37302.63QT=0.0
+Enter Price = 37316.16
+Stop Lost = 37332.69QT=0.764417
+Close Price = 37332.82
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37300.36QT=0.0
+Enter Price = 37315.3
+Stop Lost = 37332.65QT=4.916649
+Close Price = 37334.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37304.34QT=0.0
+Enter Price = 37322.58
+Stop Lost = 37336.0QT=1.460687
+Close Price = 37337.49
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37338.12QT=0.00126
+Enter Price = 37323.62
+Stop Lost = 37314.0QT=2.045582
+Close Price = 37339.31
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37320.85QT=0.0
+Enter Price = 37324.45
+Stop Lost = 37343.33QT=1.364722
+Close Price = 37345.97
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37357.09QT=0.00887
+Enter Price = 37362.34
+Stop Lost = 37380.0QT=0.731247
+Close Price = 37352.58
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37357.09QT=0.007401
+Enter Price = 37362.34
+Stop Lost = 37380.0QT=0.97995
+Close Price = 37352.58
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37350.0QT=0.000669
+Enter Price = 37352.58
+Stop Lost = 37369.71QT=0.053509
+Close Price = 37344.26
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37343.97QT=0.0
+Enter Price = 37344.26
+Stop Lost = 37355.56QT=3.620516
+Close Price = 37334.43
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37337.95QT=0.0
+Enter Price = 37338.84
+Stop Lost = 37356.07QT=0.598319
+Close Price = 37336.41
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37330.96QT=0.0
+Enter Price = 37337.97
+Stop Lost = 37355.56QT=4.681504
+Close Price = 37358.35
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37333.76QT=0.0
+Enter Price = 37341.09
+Stop Lost = 37359.9QT=1.042643
+Close Price = 37360.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37325.93QT=0.0
+Enter Price = 37343.95
+Stop Lost = 37359.9QT=2.16546
+Close Price = 37360.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37341.52QT=0.0
+Enter Price = 37355.01
+Stop Lost = 37371.97QT=0.487671
+Close Price = 37377.12
+---------------PERTE BUY----------------
+Take Profit= 37443.57QT=0.034881
+Enter Price = 37426.2
+Stop Lost = 37423.83QT=0.56
+Close Price = 37416.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37400.5QT=0.0
+Enter Price = 37418.93
+Stop Lost = 37434.99QT=0.483519
+Close Price = 37436.02
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37409.72QT=0.0
+Enter Price = 37414.76
+Stop Lost = 37431.95QT=0.872901
+Close Price = 37401.93
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37402.46QT=0.0
+Enter Price = 37413.71
+Stop Lost = 37415.74QT=0.346585
+Close Price = 37400.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37401.4QT=0.0
+Enter Price = 37413.71
+Stop Lost = 37415.74QT=1.636271
+Close Price = 37400.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37399.58QT=0.03
+Enter Price = 37413.71
+Stop Lost = 37415.74QT=1.660505
+Close Price = 37397.63
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37398.36QT=0.0
+Enter Price = 37413.71
+Stop Lost = 37415.74QT=1.656488
+Close Price = 37380.81
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37412.8QT=0.0
+Enter Price = 37413.71
+Stop Lost = 37415.74QT=1.631376
+Close Price = 37380.81
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37394.49QT=0.0
+Enter Price = 37400.01
+Stop Lost = 37401.78QT=1.19126
+Close Price = 37380.81
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37392.38QT=0.0
+Enter Price = 37400.01
+Stop Lost = 37401.78QT=1.17225
+Close Price = 37376.21
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37376.65QT=0.0
+Enter Price = 37380.81
+Stop Lost = 37395.12QT=0.235914
+Close Price = 37370.78
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37351.44QT=0.0
+Enter Price = 37360.12
+Stop Lost = 37378.04QT=0.5
+Close Price = 37350.69
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37371.95QT=0.02773
+Enter Price = 37355.01
+Stop Lost = 37347.94QT=2.101328
+Close Price = 37372.09
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37338.12QT=0.0
+Enter Price = 37355.01
+Stop Lost = 37371.95QT=1.071315
+Close Price = 37372.09
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37368.11QT=0.0
+Enter Price = 37372.8
+Stop Lost = 37392.41QT=0.357253
+Close Price = 37368.01
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37382.82QT=0.014663
+Enter Price = 37364.32
+Stop Lost = 37345.25QT=0.12559
+Close Price = 37383.48
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37414.51QT=0.006692
+Enter Price = 37396.69
+Stop Lost = 37386.0QT=2.001468
+Close Price = 37414.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 37414.51QT=0.006692
+Enter Price = 37396.1
+Stop Lost = 37381.47QT=2.034385
+Close Price = 37414.99
+---------------PERTE BUY----------------
+Take Profit= 37418.65QT=0.008895
+Enter Price = 37400.7
+Stop Lost = 37385.86QT=0.3
+Close Price = 37385.72
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37383.48QT=0.0
+Enter Price = 37389.76
+Stop Lost = 37408.01QT=1.199381
+Close Price = 37408.1
+---------------PERTE BUY----------------
+Take Profit= 37448.32QT=0.011035
+Enter Price = 37438.09
+Stop Lost = 37434.97QT=0.266879
+Close Price = 37427.08
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37439.15QT=0.023
+Enter Price = 37439.6
+Stop Lost = 37447.08QT=4.793389
+Close Price = 37427.08
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37478.94QT=0.01334
+Enter Price = 37480.97
+Stop Lost = 37497.5QT=0.239049
+Close Price = 37474.27
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37485.43QT=0.0
+Enter Price = 37497.0
+Stop Lost = 37514.04QT=2.663393
+Close Price = 37484.46
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37487.22QT=0.0
+Enter Price = 37487.45
+Stop Lost = 37504.26QT=0.157116
+Close Price = 37483.5
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37528.23QT=0.0
+Enter Price = 37530.21
+Stop Lost = 37536.97QT=0.043532
+Close Price = 37517.03
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37530.01QT=0.0
+Enter Price = 37530.21
+Stop Lost = 37533.9QT=4.850037
+Close Price = 37517.03
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37512.22QT=0.036866
+Enter Price = 37512.87
+Stop Lost = 37515.76QT=0.797744
+Close Price = 37509.97
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37505.11QT=0.0
+Enter Price = 37509.97
+Stop Lost = 37515.76QT=0.736744
+Close Price = 37499.15
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37524.03QT=0.0
+Enter Price = 37532.14
+Stop Lost = 37548.12QT=4.980474
+Close Price = 37521.45
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 37498.17QT=0.005
+Enter Price = 37505.54
+Stop Lost = 37525.17QT=0.305495
+Close Price = 37527.6
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37479.85QT=0.0
+Enter Price = 37483.33
+Stop Lost = 37500.0QT=0.03007
+Close Price = 37473.96
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37577.09QT=0.0
+Enter Price = 37584.78
+Stop Lost = 37594.15QT=3.404398
+Close Price = 37574.98
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37569.45QT=0.0
+Enter Price = 37570.69
+Stop Lost = 37589.76QT=2.203913
+Close Price = 37561.41
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37569.13QT=0.0
+Enter Price = 37571.48
+Stop Lost = 37580.74QT=3.421171
+Close Price = 37561.41
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37537.05QT=0.0
+Enter Price = 37551.84
+Stop Lost = 37560.34QT=3.653432
+Close Price = 37526.26
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37500.96QT=0.01389
+Enter Price = 37503.27
+Stop Lost = 37519.57QT=8.293919
+Close Price = 37493.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37486.72QT=0.0
+Enter Price = 37493.97
+Stop Lost = 37513.7QT=3.030355
+Close Price = 37482.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37495.33QT=0.0
+Enter Price = 37498.59
+Stop Lost = 37507.86QT=4.441067
+Close Price = 37482.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37464.78QT=0.004223
+Enter Price = 37479.02
+Stop Lost = 37497.26QT=1.014857
+Close Price = 37463.2
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37497.76QT=0.0
+Enter Price = 37500.91
+Stop Lost = 37515.01QT=5.107795
+Close Price = 37493.08
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37590.0QT=0.00266
+Enter Price = 37593.07
+Stop Lost = 37608.82QT=4.46033
+Close Price = 37585.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37617.0QT=0.0
+Enter Price = 37620.38
+Stop Lost = 37634.2QT=1.764512
+Close Price = 37610.11
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37636.35QT=0.036839
+Enter Price = 37647.36
+Stop Lost = 37666.0QT=5.714006
+Close Price = 37633.82
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37631.69QT=0.0183
+Enter Price = 37636.01
+Stop Lost = 37642.65QT=0.537918
+Close Price = 37621.96
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37578.81QT=0.004276
+Enter Price = 37590.02
+Stop Lost = 37609.85QT=0.0945
+Close Price = 37574.66
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 37509.98QT=0.0
+Enter Price = 37528.67
+Stop Lost = 37547.26QT=2.0655
+Close Price = 37506.69
+---------------PERTE BUY----------------
+Take Profit= 37548.1QT=0.0
+Enter Price = 37543.83
+Stop Lost = 37537.92QT=0.035871
+Close Price = 37523.66
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38606.24QT=0.0
+Enter Price = 38609.3
+Stop Lost = 38611.55QT=2.957798
+Close Price = 38585.58
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38578.5QT=0.0
+Enter Price = 38580.11
+Stop Lost = 38598.88QT=1.408515
+Close Price = 38573.9
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38563.88QT=0.0
+Enter Price = 38580.12
+Stop Lost = 38599.99QT=4.752586
+Close Price = 38552.4
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38565.28QT=0.0
+Enter Price = 38584.34
+Stop Lost = 38603.09QT=2.266415
+Close Price = 38607.06
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38617.01QT=0.0183
+Enter Price = 38619.99
+Stop Lost = 38631.59QT=2.87865
+Close Price = 38605.66
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38461.79QT=0.0
+Enter Price = 38462.26
+Stop Lost = 38481.37QT=0.616502
+Close Price = 38453.82
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38463.63QT=0.002599
+Enter Price = 38467.28
+Stop Lost = 38485.91QT=0.519248
+Close Price = 38462.97
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38452.65QT=0.0
+Enter Price = 38459.97
+Stop Lost = 38478.75QT=0.121022
+Close Price = 38480.51
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38482.96QT=0.0
+Enter Price = 38463.17
+Stop Lost = 38457.56QT=0.448886
+Close Price = 38483.32
+---------------PERTE BUY----------------
+Take Profit= 38506.4QT=0.0
+Enter Price = 38489.95
+Stop Lost = 38481.38QT=0.26237
+Close Price = 38477.33
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38485.9QT=0.006265
+Enter Price = 38489.95
+Stop Lost = 38495.24QT=1.925923
+Close Price = 38477.33
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38503.68QT=0.0017
+Enter Price = 38521.57
+Stop Lost = 38538.83QT=0.199039
+Close Price = 38500.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38499.43QT=0.0
+Enter Price = 38511.21
+Stop Lost = 38527.95QT=2.290477
+Close Price = 38490.86
+---------------PERTE BUY----------------
+Take Profit= 38504.39QT=0.006851
+Enter Price = 38486.03
+Stop Lost = 38485.25QT=0.1
+Close Price = 38480.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38478.57QT=0.0
+Enter Price = 38486.73
+Stop Lost = 38505.94QT=0.399819
+Close Price = 38475.57
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38475.16QT=0.0
+Enter Price = 38476.12
+Stop Lost = 38496.07QT=0.005
+Close Price = 38469.71
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38481.36QT=0.0
+Enter Price = 38481.92
+Stop Lost = 38500.01QT=4.448173
+Close Price = 38475.88
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38479.28QT=0.0
+Enter Price = 38480.0
+Stop Lost = 38497.61QT=0.728468
+Close Price = 38477.29
+---------------PERTE BUY----------------
+Take Profit= 38496.09QT=0.013964
+Enter Price = 38476.61
+Stop Lost = 38468.57QT=0.448886
+Close Price = 38464.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38464.33QT=0.0
+Enter Price = 38476.93
+Stop Lost = 38495.94QT=9.598588
+Close Price = 38464.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38471.47QT=0.0
+Enter Price = 38480.0
+Stop Lost = 38499.99QT=0.000404
+Close Price = 38464.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38476.03QT=0.0
+Enter Price = 38480.0
+Stop Lost = 38482.99QT=7.712128
+Close Price = 38464.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38460.16QT=0.0
+Enter Price = 38478.6
+Stop Lost = 38497.62QT=2.691641
+Close Price = 38457.7
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38470.42QT=0.0
+Enter Price = 38480.0
+Stop Lost = 38482.99QT=6.420603
+Close Price = 38457.7
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38467.36QT=0.0
+Enter Price = 38472.62
+Stop Lost = 38491.27QT=2.731993
+Close Price = 38464.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38466.33QT=0.0
+Enter Price = 38477.3
+Stop Lost = 38484.9QT=1.046614
+Close Price = 38464.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38452.31QT=0.0
+Enter Price = 38464.0
+Stop Lost = 38480.01QT=3.255984
+Close Price = 38450.38
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38452.26QT=0.0
+Enter Price = 38454.0
+Stop Lost = 38473.22QT=0.538414
+Close Price = 38450.38
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38443.9QT=0.0
+Enter Price = 38456.01
+Stop Lost = 38475.0QT=0.566418
+Close Price = 38440.01
+---------------PERTE BUY----------------
+Take Profit= 38447.96QT=0.0
+Enter Price = 38446.62
+Stop Lost = 38426.92QT=0.259977
+Close Price = 38421.84
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38438.55QT=0.0
+Enter Price = 38453.62
+Stop Lost = 38473.21QT=2.675375
+Close Price = 38411.64
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38444.83QT=0.00029
+Enter Price = 38446.62
+Stop Lost = 38447.22QT=0.160206
+Close Price = 38411.64
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38441.0QT=0.01
+Enter Price = 38446.62
+Stop Lost = 38447.22QT=0.539662
+Close Price = 38411.64
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38485.62QT=0.0
+Enter Price = 38493.04
+Stop Lost = 38512.45QT=0.683287
+Close Price = 38482.63
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38509.78QT=0.03
+Enter Price = 38518.0
+Stop Lost = 38535.52QT=1.775965
+Close Price = 38507.69
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38498.34QT=0.0
+Enter Price = 38515.39
+Stop Lost = 38533.0QT=1.31
+Close Price = 38493.32
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38492.28QT=0.0
+Enter Price = 38496.94
+Stop Lost = 38512.26QT=0.364071
+Close Price = 38486.95
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38455.73QT=0.0
+Enter Price = 38455.82
+Stop Lost = 38470.37QT=0.696926
+Close Price = 38451.44
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38431.85QT=0.0
+Enter Price = 38440.47
+Stop Lost = 38450.02QT=1.187187
+Close Price = 38425.8
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38436.09QT=0.02
+Enter Price = 38436.6
+Stop Lost = 38442.63QT=3.117276
+Close Price = 38425.8
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38363.48QT=0.0
+Enter Price = 38373.27
+Stop Lost = 38373.74QT=5.09078
+Close Price = 38348.99
+---------------PERTE BUY----------------
+Take Profit= 38349.99QT=0.038138
+Enter Price = 38348.99
+Stop Lost = 38331.51QT=1.99424
+Close Price = 38319.48
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38335.15QT=0.0183
+Enter Price = 38339.41
+Stop Lost = 38352.53QT=1.974399
+Close Price = 38332.73
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38325.68QT=0.0
+Enter Price = 38331.5
+Stop Lost = 38345.49QT=0.011368
+Close Price = 38318.23
+---------------PERTE BUY----------------
+Take Profit= 38345.0QT=0.01
+Enter Price = 38337.18
+Stop Lost = 38336.11QT=0.06
+Close Price = 38321.41
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38300.17QT=0.0
+Enter Price = 38303.48
+Stop Lost = 38306.53QT=1.093817
+Close Price = 38294.23
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38100.02QT=0.0
+Enter Price = 38120.0
+Stop Lost = 38124.05QT=0.548552
+Close Price = 38098.6
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38069.01QT=0.01
+Enter Price = 38069.32
+Stop Lost = 38073.81QT=0.010665
+Close Price = 38087.15
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38134.34QT=0.0
+Enter Price = 38137.3
+Stop Lost = 38153.76QT=0.21036
+Close Price = 38166.52
+---------------PERTE BUY----------------
+Take Profit= 38144.39QT=0.0
+Enter Price = 38129.0
+Stop Lost = 38113.28QT=0.323033
+Close Price = 38101.76
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38109.94QT=0.0
+Enter Price = 38127.39
+Stop Lost = 38144.5QT=0.54482
+Close Price = 38101.76
+---------------PERTE BUY----------------
+Take Profit= 38107.55QT=0.0
+Enter Price = 38101.76
+Stop Lost = 38101.0QT=1.560075
+Close Price = 38084.33
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38047.88QT=0.0
+Enter Price = 38050.0
+Stop Lost = 38054.18QT=0.5
+Close Price = 38029.98
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38022.07QT=0.0
+Enter Price = 38029.98
+Stop Lost = 38041.44QT=0.021651
+Close Price = 38002.9
+---------------PERTE BUY----------------
+Take Profit= 38016.64QT=0.006
+Enter Price = 38015.95
+Stop Lost = 38014.29QT=0.195991
+Close Price = 38006.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38040.65QT=0.0
+Enter Price = 38046.5
+Stop Lost = 38053.41QT=0.493178
+Close Price = 38023.05
+---------------PERTE BUY----------------
+Take Profit= 38047.51QT=0.0126
+Enter Price = 38043.48
+Stop Lost = 38043.1QT=0.54228
+Close Price = 38034.37
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38028.14QT=0.0
+Enter Price = 38034.37
+Stop Lost = 38046.7QT=0.06
+Close Price = 38026.65
+---------------PERTE BUY----------------
+Take Profit= 38045.0QT=0.0
+Enter Price = 38028.76
+Stop Lost = 38025.84QT=1.96
+Close Price = 38023.32
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 38019.88QT=0.0
+Enter Price = 38028.76
+Stop Lost = 38040.63QT=1.487382
+Close Price = 38041.17
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 38042.67QT=0.01395
+Enter Price = 38026.65
+Stop Lost = 38012.76QT=1.102141
+Close Price = 38048.77
+---------------PERTE BUY----------------
+Take Profit= 38128.67QT=0.0135
+Enter Price = 38117.92
+Stop Lost = 38117.67QT=0.225
+Close Price = 38116.36
+---------------PERTE BUY----------------
+Take Profit= 38112.43QT=0.000524
+Enter Price = 38104.31
+Stop Lost = 38103.93QT=0.06
+Close Price = 38098.54
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38090.07QT=0.000274
+Enter Price = 38098.54
+Stop Lost = 38107.02QT=0.008823
+Close Price = 38088.71
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 38088.66QT=0.0
+Enter Price = 38094.57
+Stop Lost = 38112.16QT=0.035
+Close Price = 38082.95
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39627.13QT=0.005
+Enter Price = 39621.98
+Stop Lost = 39616.99QT=0.349967
+Close Price = 39627.18
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39614.09QT=0.0219
+Enter Price = 39616.37
+Stop Lost = 39626.0QT=0.04
+Close Price = 39627.18
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39628.88QT=0.0
+Enter Price = 39627.18
+Stop Lost = 39622.99QT=0.25
+Close Price = 39637.66
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39618.59QT=0.0
+Enter Price = 39621.98
+Stop Lost = 39632.0QT=0.04
+Close Price = 39637.66
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39617.47QT=0.0
+Enter Price = 39627.18
+Stop Lost = 39632.58QT=0.1
+Close Price = 39637.66
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39639.99QT=0.0
+Enter Price = 39643.0
+Stop Lost = 39644.11QT=0.271307
+Close Price = 39646.18
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39632.63QT=0.01
+Enter Price = 39632.83
+Stop Lost = 39634.18QT=1.427
+Close Price = 39643.96
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39616.74QT=0.0
+Enter Price = 39632.83
+Stop Lost = 39634.87QT=0.082358
+Close Price = 39638.63
+---------------PERTE BUY----------------
+Take Profit= 39644.28QT=0.0
+Enter Price = 39632.83
+Stop Lost = 39632.19QT=0.1295
+Close Price = 39632.07
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39634.85QT=0.0
+Enter Price = 39633.01
+Stop Lost = 39627.0QT=0.216776
+Close Price = 39639.92
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39632.32QT=0.001993
+Enter Price = 39632.07
+Stop Lost = 39630.1QT=0.052961
+Close Price = 39639.92
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39630.49QT=0.0
+Enter Price = 39632.07
+Stop Lost = 39632.32QT=1.948299
+Close Price = 39642.3
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39641.16QT=0.02
+Enter Price = 39640.24
+Stop Lost = 39633.71QT=0.32127
+Close Price = 39642.19
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39644.3QT=0.0
+Enter Price = 39640.25
+Stop Lost = 39634.06QT=0.75
+Close Price = 39648.92
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39633.32QT=0.0
+Enter Price = 39649.99
+Stop Lost = 39656.47QT=0.25475
+Close Price = 39663.83
+---------------PERTE BUY----------------
+Take Profit= 39659.99QT=0.0
+Enter Price = 39653.7
+Stop Lost = 39649.49QT=0.166014
+Close Price = 39645.62
+---------------PERTE BUY----------------
+Take Profit= 39657.17QT=0.0
+Enter Price = 39650.01
+Stop Lost = 39641.98QT=1.223075
+Close Price = 39639.94
+---------------PERTE BUY----------------
+Take Profit= 39668.35QT=0.0
+Enter Price = 39650.01
+Stop Lost = 39643.0QT=0.039387
+Close Price = 39639.94
+---------------PERTE BUY----------------
+Take Profit= 39677.08QT=0.013165
+Enter Price = 39658.2
+Stop Lost = 39639.21QT=0.248715
+Close Price = 39639.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39633.26QT=0.0
+Enter Price = 39639.94
+Stop Lost = 39646.14QT=0.1
+Close Price = 39647.39
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39624.02QT=0.0
+Enter Price = 39643.73
+Stop Lost = 39646.61QT=0.12609
+Close Price = 39647.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39640.07QT=0.000765
+Enter Price = 39642.41
+Stop Lost = 39644.34QT=0.25
+Close Price = 39647.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39650.96QT=0.0
+Enter Price = 39643.74
+Stop Lost = 39627.71QT=0.25481
+Close Price = 39657.4
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39650.09QT=0.0
+Enter Price = 39642.41
+Stop Lost = 39636.42QT=0.286989
+Close Price = 39657.4
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39659.53QT=0.0
+Enter Price = 39642.41
+Stop Lost = 39638.43QT=0.073644
+Close Price = 39659.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39648.99QT=0.0
+Enter Price = 39647.01
+Stop Lost = 39640.02QT=2.517638
+Close Price = 39659.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39650.64QT=0.0
+Enter Price = 39657.4
+Stop Lost = 39657.97QT=0.01
+Close Price = 39660.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39668.3QT=0.0
+Enter Price = 39657.4
+Stop Lost = 39650.38QT=0.002069
+Close Price = 39668.39
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39663.35QT=0.03178
+Enter Price = 39660.0
+Stop Lost = 39659.98QT=0.37348
+Close Price = 39666.94
+---------------PERTE BUY----------------
+Take Profit= 39670.97QT=0.0
+Enter Price = 39660.0
+Stop Lost = 39659.98QT=1.530265
+Close Price = 39653.25
+---------------PERTE BUY----------------
+Take Profit= 39664.13QT=0.0
+Enter Price = 39659.99
+Stop Lost = 39659.98QT=0.092765
+Close Price = 39653.25
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39655.25QT=0.0
+Enter Price = 39653.25
+Stop Lost = 39649.99QT=2.676938
+Close Price = 39659.8
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39655.74QT=0.0
+Enter Price = 39654.79
+Stop Lost = 39636.63QT=0.075081
+Close Price = 39657.59
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39657.51QT=0.0
+Enter Price = 39654.79
+Stop Lost = 39651.04QT=0.525
+Close Price = 39657.59
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39648.65QT=0.0
+Enter Price = 39657.59
+Stop Lost = 39657.94QT=0.02
+Close Price = 39660.98
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39661.52QT=0.0
+Enter Price = 39654.79
+Stop Lost = 39651.04QT=0.517898
+Close Price = 39671.98
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39650.38QT=0.012325
+Enter Price = 39657.4
+Stop Lost = 39672.29QT=0.317956
+Close Price = 39674.26
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39674.16QT=0.0
+Enter Price = 39670.01
+Stop Lost = 39661.51QT=0.274765
+Close Price = 39675.44
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39657.0QT=0.01
+Enter Price = 39664.59
+Stop Lost = 39666.77QT=0.02
+Close Price = 39672.02
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39672.99QT=0.0
+Enter Price = 39664.59
+Stop Lost = 39658.89QT=0.025
+Close Price = 39673.42
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39668.96QT=0.0
+Enter Price = 39667.16
+Stop Lost = 39657.1QT=0.070839
+Close Price = 39673.75
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39671.25QT=0.0
+Enter Price = 39665.17
+Stop Lost = 39658.81QT=0.015631
+Close Price = 39673.42
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39670.08QT=0.0
+Enter Price = 39665.17
+Stop Lost = 39658.0QT=0.02
+Close Price = 39673.75
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39646.53QT=0.0
+Enter Price = 39665.17
+Stop Lost = 39672.34QT=0.27482
+Close Price = 39673.75
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39677.6QT=0.0183
+Enter Price = 39667.16
+Stop Lost = 39658.82QT=0.037237
+Close Price = 39679.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39654.23QT=0.0
+Enter Price = 39665.17
+Stop Lost = 39670.63QT=0.152042
+Close Price = 39670.65
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39676.69QT=0.0
+Enter Price = 39665.17
+Stop Lost = 39658.86QT=3.537012
+Close Price = 39679.98
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39675.09QT=0.0
+Enter Price = 39667.11
+Stop Lost = 39663.93QT=0.07
+Close Price = 39679.98
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39672.77QT=0.0
+Enter Price = 39670.65
+Stop Lost = 39665.52QT=0.638512
+Close Price = 39673.23
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39682.42QT=0.002395
+Enter Price = 39667.11
+Stop Lost = 39663.05QT=4.437603
+Close Price = 39697.22
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39675.11QT=0.0
+Enter Price = 39673.42
+Stop Lost = 39670.09QT=2.217506
+Close Price = 39697.22
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39673.29QT=0.0
+Enter Price = 39670.65
+Stop Lost = 39665.52QT=0.4805
+Close Price = 39697.22
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39658.85QT=0.002015
+Enter Price = 39670.01
+Stop Lost = 39678.45QT=0.181722
+Close Price = 39697.22
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39665.49QT=0.00202
+Enter Price = 39673.42
+Stop Lost = 39677.27QT=0.00392
+Close Price = 39701.36
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39667.47QT=0.022534
+Enter Price = 39673.42
+Stop Lost = 39678.53QT=0.125993
+Close Price = 39697.83
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39666.02QT=0.0
+Enter Price = 39671.99
+Stop Lost = 39672.85QT=0.000571
+Close Price = 39697.83
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39694.44QT=0.0
+Enter Price = 39697.22
+Stop Lost = 39698.32QT=3.766952
+Close Price = 39694.17
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39688.05QT=0.01
+Enter Price = 39697.22
+Stop Lost = 39698.36QT=0.136082
+Close Price = 39681.71
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39692.04QT=0.0
+Enter Price = 39697.22
+Stop Lost = 39698.36QT=0.079372
+Close Price = 39681.71
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39691.86QT=0.0
+Enter Price = 39697.22
+Stop Lost = 39700.21QT=0.033911
+Close Price = 39682.2
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39683.53QT=0.001597
+Enter Price = 39682.2
+Stop Lost = 39679.23QT=0.01
+Close Price = 39688.65
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39674.85QT=0.0
+Enter Price = 39682.2
+Stop Lost = 39688.41QT=0.146117
+Close Price = 39688.65
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39685.81QT=0.0
+Enter Price = 39688.65
+Stop Lost = 39695.96QT=0.02
+Close Price = 39697.76
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39677.12QT=0.01
+Enter Price = 39679.24
+Stop Lost = 39685.51QT=0.02
+Close Price = 39687.42
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39697.53QT=0.0
+Enter Price = 39695.25
+Stop Lost = 39689.96QT=0.688227
+Close Price = 39699.96
+---------------PERTE BUY----------------
+Take Profit= 39719.88QT=0.0
+Enter Price = 39701.89
+Stop Lost = 39699.99QT=1.833493
+Close Price = 39698.33
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39716.3QT=0.001
+Enter Price = 39699.99
+Stop Lost = 39693.98QT=1.623422
+Close Price = 39720.17
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39714.9QT=0.0183
+Enter Price = 39701.41
+Stop Lost = 39699.98QT=1.276639
+Close Price = 39720.17
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39740.76QT=0.0
+Enter Price = 39738.3
+Stop Lost = 39734.96QT=1.329544
+Close Price = 39744.74
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39732.17QT=0.0
+Enter Price = 39729.99
+Stop Lost = 39726.85QT=2.41055
+Close Price = 39733.57
+---------------PERTE BUY----------------
+Take Profit= 39739.87QT=0.0
+Enter Price = 39733.57
+Stop Lost = 39724.61QT=0.050814
+Close Price = 39722.88
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39726.08QT=0.021906
+Enter Price = 39722.88
+Stop Lost = 39719.02QT=2.051273
+Close Price = 39729.01
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39727.91QT=0.0
+Enter Price = 39725.09
+Stop Lost = 39721.38QT=0.115743
+Close Price = 39730.98
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39728.33QT=0.0
+Enter Price = 39725.09
+Stop Lost = 39723.01QT=0.008801
+Close Price = 39730.98
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39719.22QT=0.0
+Enter Price = 39727.9
+Stop Lost = 39727.98QT=2.808774
+Close Price = 39729.01
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39735.47QT=0.0
+Enter Price = 39725.09
+Stop Lost = 39723.05QT=0.397691
+Close Price = 39746.69
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39729.39QT=0.0
+Enter Price = 39726.42
+Stop Lost = 39721.67QT=1.004638
+Close Price = 39746.69
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39735.03QT=0.005
+Enter Price = 39729.01
+Stop Lost = 39723.05QT=0.26529
+Close Price = 39746.69
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39727.63QT=0.0
+Enter Price = 39725.0
+Stop Lost = 39723.01QT=3.30411
+Close Price = 39758.29
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39727.62QT=0.0
+Enter Price = 39726.2
+Stop Lost = 39723.01QT=4.216012
+Close Price = 39763.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39719.02QT=0.0
+Enter Price = 39725.09
+Stop Lost = 39737.78QT=0.188063
+Close Price = 39760.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39718.98QT=0.0
+Enter Price = 39726.42
+Stop Lost = 39735.43QT=0.005
+Close Price = 39760.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39723.1QT=0.0
+Enter Price = 39730.98
+Stop Lost = 39731.74QT=0.001906
+Close Price = 39760.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39715.98QT=0.001258
+Enter Price = 39726.66
+Stop Lost = 39729.62QT=0.035625
+Close Price = 39760.03
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39754.24QT=0.0
+Enter Price = 39758.29
+Stop Lost = 39759.41QT=0.902185
+Close Price = 39761.98
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39764.14QT=0.0
+Enter Price = 39760.0
+Stop Lost = 39757.89QT=0.008125
+Close Price = 39769.81
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39764.13QT=0.0
+Enter Price = 39760.0
+Stop Lost = 39757.89QT=0.347645
+Close Price = 39769.81
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39768.99QT=0.0
+Enter Price = 39761.98
+Stop Lost = 39757.86QT=0.087382
+Close Price = 39775.54
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39757.89QT=0.011808
+Enter Price = 39760.0
+Stop Lost = 39765.17QT=0.274159
+Close Price = 39777.42
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39769.86QT=0.010238
+Enter Price = 39771.2
+Stop Lost = 39771.87QT=1.47028
+Close Price = 39773.4
+---------------PERTE BUY----------------
+Take Profit= 39758.84QT=0.0
+Enter Price = 39750.01
+Stop Lost = 39747.17QT=0.022
+Close Price = 39746.69
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39743.86QT=0.0
+Enter Price = 39741.48
+Stop Lost = 39730.01QT=0.005
+Close Price = 39745.53
+---------------PERTE BUY----------------
+Take Profit= 39746.49QT=0.0
+Enter Price = 39741.35
+Stop Lost = 39731.0QT=0.37123
+Close Price = 39727.32
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39723.01QT=0.023867
+Enter Price = 39720.03
+Stop Lost = 39719.86QT=0.75
+Close Price = 39724.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39727.78QT=0.0
+Enter Price = 39727.32
+Stop Lost = 39711.9QT=1.376012
+Close Price = 39735.85
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39718.0QT=0.025
+Enter Price = 39722.69
+Stop Lost = 39728.42QT=0.04
+Close Price = 39716.49
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39718.19QT=0.01
+Enter Price = 39722.69
+Stop Lost = 39724.07QT=1.64384
+Close Price = 39712.9
+---------------PERTE BUY----------------
+Take Profit= 39725.0QT=0.0
+Enter Price = 39722.69
+Stop Lost = 39705.29QT=0.596302
+Close Price = 39703.0
+---------------PERTE BUY----------------
+Take Profit= 39725.3QT=0.0
+Enter Price = 39721.22
+Stop Lost = 39710.85QT=0.374659
+Close Price = 39703.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39706.03QT=0.0
+Enter Price = 39703.0
+Stop Lost = 39699.99QT=2.175
+Close Price = 39717.97
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39710.51QT=0.0
+Enter Price = 39703.0
+Stop Lost = 39699.99QT=2.520698
+Close Price = 39717.97
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39708.61QT=0.0
+Enter Price = 39703.0
+Stop Lost = 39686.22QT=0.04
+Close Price = 39717.97
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39718.35QT=0.0
+Enter Price = 39717.97
+Stop Lost = 39716.51QT=0.31794
+Close Price = 39720.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39718.27QT=0.034882
+Enter Price = 39717.97
+Stop Lost = 39712.86QT=0.052468
+Close Price = 39720.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39713.36QT=0.000415
+Enter Price = 39717.97
+Stop Lost = 39719.69QT=1.1
+Close Price = 39713.22
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39714.58QT=0.0
+Enter Price = 39713.22
+Stop Lost = 39710.73QT=0.537197
+Close Price = 39715.25
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39716.24QT=0.0
+Enter Price = 39713.22
+Stop Lost = 39710.73QT=0.609294
+Close Price = 39719.98
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39716.77QT=0.0
+Enter Price = 39713.22
+Stop Lost = 39706.85QT=0.167121
+Close Price = 39719.98
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39717.78QT=0.0
+Enter Price = 39715.25
+Stop Lost = 39714.56QT=0.16299
+Close Price = 39719.98
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39721.31QT=0.01
+Enter Price = 39703.0
+Stop Lost = 39699.99QT=2.488289
+Close Price = 39723.51
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39721.3QT=0.0
+Enter Price = 39718.66
+Stop Lost = 39705.03QT=0.01
+Close Price = 39723.51
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39720.35QT=0.0
+Enter Price = 39713.22
+Stop Lost = 39710.73QT=0.808278
+Close Price = 39723.51
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39720.37QT=0.0
+Enter Price = 39719.57
+Stop Lost = 39719.48QT=0.054293
+Close Price = 39724.15
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39712.9QT=0.02
+Enter Price = 39720.0
+Stop Lost = 39721.26QT=4.762485
+Close Price = 39724.15
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39724.35QT=0.0
+Enter Price = 39724.15
+Stop Lost = 39715.43QT=1.2262
+Close Price = 39727.09
+---------------PERTE BUY----------------
+Take Profit= 39725.99QT=0.0
+Enter Price = 39723.54
+Stop Lost = 39714.57QT=0.440218
+Close Price = 39713.22
+---------------PERTE BUY----------------
+Take Profit= 39740.64QT=0.0
+Enter Price = 39723.53
+Stop Lost = 39714.45QT=0.255125
+Close Price = 39711.15
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39715.56QT=0.002214
+Enter Price = 39713.22
+Stop Lost = 39710.52QT=1.024646
+Close Price = 39716.25
+---------------PERTE BUY----------------
+Take Profit= 39727.73QT=0.0
+Enter Price = 39720.17
+Stop Lost = 39710.73QT=1.9108
+Close Price = 39687.91
+---------------PERTE BUY----------------
+Take Profit= 39728.57QT=0.0
+Enter Price = 39713.22
+Stop Lost = 39710.52QT=0.016465
+Close Price = 39687.91
+---------------PERTE BUY----------------
+Take Profit= 39728.55QT=0.0
+Enter Price = 39713.23
+Stop Lost = 39705.36QT=0.022944
+Close Price = 39681.32
+---------------PERTE BUY----------------
+Take Profit= 39715.99QT=0.0
+Enter Price = 39713.23
+Stop Lost = 39705.36QT=0.037237
+Close Price = 39681.32
+---------------PERTE BUY----------------
+Take Profit= 39726.9QT=0.0
+Enter Price = 39713.5
+Stop Lost = 39710.08QT=0.026481
+Close Price = 39681.32
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39702.77QT=0.0
+Enter Price = 39720.17
+Stop Lost = 39727.28QT=0.04
+Close Price = 39699.34
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39702.77QT=0.0
+Enter Price = 39715.28
+Stop Lost = 39718.37QT=0.003809
+Close Price = 39699.55
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39710.52QT=0.009399
+Enter Price = 39713.22
+Stop Lost = 39727.49QT=0.076254
+Close Price = 39699.55
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39707.71QT=0.0
+Enter Price = 39713.58
+Stop Lost = 39715.99QT=0.274489
+Close Price = 39699.55
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39710.08QT=0.003502
+Enter Price = 39713.23
+Stop Lost = 39714.93QT=0.309489
+Close Price = 39699.54
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39692.14QT=0.0
+Enter Price = 39691.23
+Stop Lost = 39687.45QT=0.695084
+Close Price = 39695.16
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39697.12QT=0.0
+Enter Price = 39691.23
+Stop Lost = 39686.01QT=0.200865
+Close Price = 39698.5
+---------------PERTE BUY----------------
+Take Profit= 39705.17QT=0.0
+Enter Price = 39695.16
+Stop Lost = 39690.5QT=0.548595
+Close Price = 39686.14
+---------------PERTE BUY----------------
+Take Profit= 39702.35QT=0.0
+Enter Price = 39698.5
+Stop Lost = 39690.5QT=1.933332
+Close Price = 39678.06
+---------------PERTE BUY----------------
+Take Profit= 39711.17QT=0.0
+Enter Price = 39698.5
+Stop Lost = 39690.5QT=1.930617
+Close Price = 39678.06
+---------------PERTE BUY----------------
+Take Profit= 39695.99QT=0.005
+Enter Price = 39694.72
+Stop Lost = 39681.37QT=1.451418
+Close Price = 39679.34
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39668.17QT=0.0
+Enter Price = 39673.39
+Stop Lost = 39675.69QT=0.391511
+Close Price = 39678.29
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39665.39QT=0.0
+Enter Price = 39669.68
+Stop Lost = 39675.69QT=0.08
+Close Price = 39678.29
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39681.0QT=0.02
+Enter Price = 39678.29
+Stop Lost = 39675.68QT=0.162806
+Close Price = 39684.41
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39682.86QT=0.02
+Enter Price = 39678.29
+Stop Lost = 39675.68QT=0.03627
+Close Price = 39684.41
+---------------PERTE BUY----------------
+Take Profit= 39685.3QT=0.0
+Enter Price = 39684.41
+Stop Lost = 39672.52QT=0.515644
+Close Price = 39667.44
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39663.54QT=0.012603
+Enter Price = 39667.44
+Stop Lost = 39668.16QT=0.166081
+Close Price = 39663.07
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39682.48QT=0.0
+Enter Price = 39669.43
+Stop Lost = 39667.89QT=0.709686
+Close Price = 39684.4
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39680.14QT=0.0
+Enter Price = 39688.0
+Stop Lost = 39697.47QT=0.03
+Close Price = 39680.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39683.0QT=0.01
+Enter Price = 39680.0
+Stop Lost = 39679.99QT=0.347131
+Close Price = 39684.83
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39690.46QT=0.005
+Enter Price = 39685.63
+Stop Lost = 39677.13QT=2.386813
+Close Price = 39690.76
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39692.09QT=0.0
+Enter Price = 39685.63
+Stop Lost = 39677.13QT=2.726813
+Close Price = 39693.26
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39692.89QT=0.01
+Enter Price = 39690.76
+Stop Lost = 39687.28QT=0.074581
+Close Price = 39692.92
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39692.89QT=0.0
+Enter Price = 39690.76
+Stop Lost = 39687.7QT=0.016442
+Close Price = 39692.92
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39693.93QT=0.0
+Enter Price = 39682.65
+Stop Lost = 39680.09QT=0.675424
+Close Price = 39697.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39697.73QT=0.0
+Enter Price = 39684.4
+Stop Lost = 39679.78QT=0.023766
+Close Price = 39698.08
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39696.17QT=0.0
+Enter Price = 39689.03
+Stop Lost = 39675.09QT=0.389272
+Close Price = 39698.7
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39696.98QT=0.0
+Enter Price = 39696.92
+Stop Lost = 39687.99QT=1.272633
+Close Price = 39697.8
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39708.35QT=0.0
+Enter Price = 39695.0
+Stop Lost = 39687.99QT=0.167197
+Close Price = 39708.89
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39699.99QT=0.0
+Enter Price = 39694.11
+Stop Lost = 39687.99QT=0.031554
+Close Price = 39706.75
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39704.32QT=0.0
+Enter Price = 39694.11
+Stop Lost = 39687.99QT=0.793633
+Close Price = 39706.75
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39705.49QT=0.0
+Enter Price = 39694.11
+Stop Lost = 39687.99QT=0.772633
+Close Price = 39710.6
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39679.75QT=0.0
+Enter Price = 39690.76
+Stop Lost = 39701.79QT=0.157
+Close Price = 39706.75
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39707.96QT=0.0
+Enter Price = 39696.92
+Stop Lost = 39686.79QT=1.134617
+Close Price = 39723.45
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39712.92QT=0.0
+Enter Price = 39696.92
+Stop Lost = 39687.99QT=1.859415
+Close Price = 39723.45
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39709.46QT=0.0
+Enter Price = 39697.8
+Stop Lost = 39687.99QT=2.887663
+Close Price = 39730.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39707.87QT=0.0
+Enter Price = 39706.75
+Stop Lost = 39703.99QT=1.09009
+Close Price = 39730.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39707.87QT=0.0
+Enter Price = 39706.75
+Stop Lost = 39700.79QT=0.315654
+Close Price = 39730.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39709.16QT=0.0
+Enter Price = 39706.75
+Stop Lost = 39696.68QT=0.187726
+Close Price = 39730.62
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39710.0QT=0.020093
+Enter Price = 39706.75
+Stop Lost = 39703.99QT=1.210541
+Close Price = 39735.74
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39732.22QT=0.0
+Enter Price = 39730.0
+Stop Lost = 39725.69QT=1.1
+Close Price = 39735.74
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39713.48QT=0.0
+Enter Price = 39723.45
+Stop Lost = 39730.74QT=0.157944
+Close Price = 39735.74
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39726.99QT=0.0
+Enter Price = 39730.0
+Stop Lost = 39732.17QT=0.0529
+Close Price = 39733.55
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39729.51QT=0.0
+Enter Price = 39730.62
+Stop Lost = 39731.01QT=0.6
+Close Price = 39733.55
+---------------PERTE BUY----------------
+Take Profit= 39734.94QT=0.0
+Enter Price = 39733.55
+Stop Lost = 39730.41QT=0.281103
+Close Price = 39726.31
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39735.82QT=0.0
+Enter Price = 39723.45
+Stop Lost = 39719.08QT=1.550162
+Close Price = 39738.87
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39735.21QT=0.005
+Enter Price = 39730.3
+Stop Lost = 39728.22QT=1.699689
+Close Price = 39738.87
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39719.08QT=0.0
+Enter Price = 39723.45
+Stop Lost = 39736.55QT=0.190676
+Close Price = 39738.87
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39720.54QT=0.0
+Enter Price = 39730.62
+Stop Lost = 39731.01QT=0.623096
+Close Price = 39738.89
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39726.03QT=0.017
+Enter Price = 39730.29
+Stop Lost = 39730.4QT=0.151388
+Close Price = 39738.89
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39742.95QT=0.0
+Enter Price = 39730.3
+Stop Lost = 39728.22QT=1.887689
+Close Price = 39747.2
+---------------PERTE BUY----------------
+Take Profit= 39747.5QT=0.0
+Enter Price = 39738.89
+Stop Lost = 39737.15QT=0.25416
+Close Price = 39736.47
+---------------PERTE BUY----------------
+Take Profit= 39757.67QT=0.005
+Enter Price = 39747.2
+Stop Lost = 39738.02QT=0.779993
+Close Price = 39736.47
+---------------PERTE BUY----------------
+Take Profit= 39747.74QT=0.0
+Enter Price = 39738.87
+Stop Lost = 39735.18QT=0.382222
+Close Price = 39730.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39720.88QT=0.0
+Enter Price = 39727.07
+Stop Lost = 39730.78QT=0.001043
+Close Price = 39733.01
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39734.99QT=0.005
+Enter Price = 39730.0
+Stop Lost = 39720.87QT=1.560275
+Close Price = 39738.82
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39734.99QT=0.0
+Enter Price = 39730.0
+Stop Lost = 39726.99QT=0.275
+Close Price = 39738.82
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39726.57QT=0.01
+Enter Price = 39733.01
+Stop Lost = 39734.99QT=0.151621
+Close Price = 39738.82
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39720.87QT=0.0
+Enter Price = 39735.96
+Stop Lost = 39738.97QT=0.116
+Close Price = 39740.18
+---------------PERTE BUY----------------
+Take Profit= 39745.24QT=0.0
+Enter Price = 39743.71
+Stop Lost = 39741.14QT=0.184043
+Close Price = 39740.81
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39741.19QT=0.0
+Enter Price = 39740.81
+Stop Lost = 39735.5QT=1.103494
+Close Price = 39744.01
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39744.78QT=0.0
+Enter Price = 39740.81
+Stop Lost = 39726.81QT=0.1
+Close Price = 39746.31
+---------------PERTE BUY----------------
+Take Profit= 39757.27QT=0.0
+Enter Price = 39744.01
+Stop Lost = 39736.89QT=3.071588
+Close Price = 39735.01
+---------------PERTE BUY----------------
+Take Profit= 39751.99QT=0.0
+Enter Price = 39744.01
+Stop Lost = 39736.89QT=2.994541
+Close Price = 39735.0
+---------------PERTE BUY----------------
+Take Profit= 39753.29QT=0.03
+Enter Price = 39746.31
+Stop Lost = 39736.89QT=1.709511
+Close Price = 39736.53
+---------------PERTE BUY----------------
+Take Profit= 39752.09QT=0.0
+Enter Price = 39738.82
+Stop Lost = 39734.83QT=1.33763
+Close Price = 39709.33
+---------------PERTE BUY----------------
+Take Profit= 39748.47QT=0.03
+Enter Price = 39740.18
+Stop Lost = 39734.99QT=1.3997
+Close Price = 39709.33
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39726.03QT=0.01118
+Enter Price = 39730.29
+Stop Lost = 39749.49QT=0.002
+Close Price = 39710.41
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39732.15QT=0.0
+Enter Price = 39740.18
+Stop Lost = 39757.48QT=0.33098
+Close Price = 39710.41
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39728.4QT=0.0
+Enter Price = 39740.18
+Stop Lost = 39749.48QT=0.274317
+Close Price = 39710.41
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39729.08QT=0.001778
+Enter Price = 39735.01
+Stop Lost = 39743.84QT=0.076026
+Close Price = 39710.41
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39713.98QT=0.005
+Enter Price = 39710.41
+Stop Lost = 39702.11QT=0.333713
+Close Price = 39717.34
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39712.05QT=0.0
+Enter Price = 39710.41
+Stop Lost = 39702.96QT=0.07399
+Close Price = 39717.34
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39704.38QT=0.0
+Enter Price = 39713.8
+Stop Lost = 39716.63QT=0.02
+Close Price = 39718.33
+---------------PERTE BUY----------------
+Take Profit= 39725.85QT=0.0
+Enter Price = 39713.8
+Stop Lost = 39713.02QT=0.3
+Close Price = 39712.58
+---------------PERTE BUY----------------
+Take Profit= 39719.03QT=0.0
+Enter Price = 39717.34
+Stop Lost = 39707.54QT=0.012589
+Close Price = 39701.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39705.26QT=0.01259
+Enter Price = 39713.8
+Stop Lost = 39723.52QT=0.197353
+Close Price = 39701.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39700.0QT=0.000395
+Enter Price = 39718.33
+Stop Lost = 39728.72QT=0.09
+Close Price = 39686.23
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39680.19QT=0.0
+Enter Price = 39680.26
+Stop Lost = 39683.44QT=1.475
+Close Price = 39691.66
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39681.77QT=0.012597
+Enter Price = 39682.69
+Stop Lost = 39683.44QT=1.519958
+Close Price = 39691.66
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39673.09QT=0.0
+Enter Price = 39682.69
+Stop Lost = 39683.44QT=0.236153
+Close Price = 39692.63
+---------------PERTE BUY----------------
+Take Profit= 39696.83QT=0.0
+Enter Price = 39682.69
+Stop Lost = 39674.04QT=0.083618
+Close Price = 39669.7
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39674.71QT=0.0
+Enter Price = 39674.57
+Stop Lost = 39663.09QT=0.02
+Close Price = 39677.01
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39669.62QT=0.00031
+Enter Price = 39677.01
+Stop Lost = 39679.76QT=0.03
+Close Price = 39688.28
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39677.56QT=0.0
+Enter Price = 39678.14
+Stop Lost = 39681.77QT=1.1
+Close Price = 39688.28
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39690.03QT=0.01
+Enter Price = 39688.28
+Stop Lost = 39677.44QT=0.02
+Close Price = 39693.18
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39690.79QT=0.035
+Enter Price = 39688.28
+Stop Lost = 39675.36QT=0.274656
+Close Price = 39693.18
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39694.13QT=0.0
+Enter Price = 39688.52
+Stop Lost = 39676.2QT=0.148763
+Close Price = 39700.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39675.52QT=0.0
+Enter Price = 39692.03
+Stop Lost = 39699.46QT=0.125936
+Close Price = 39700.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39686.49QT=0.0
+Enter Price = 39683.83
+Stop Lost = 39669.71QT=0.345604
+Close Price = 39686.62
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39688.52QT=0.0
+Enter Price = 39680.0
+Stop Lost = 39662.0QT=0.001821
+Close Price = 39689.86
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39689.06QT=0.0
+Enter Price = 39680.0
+Stop Lost = 39665.53QT=0.174839
+Close Price = 39689.86
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39688.36QT=0.0
+Enter Price = 39687.39
+Stop Lost = 39675.28QT=0.690977
+Close Price = 39689.85
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39688.46QT=0.02
+Enter Price = 39687.39
+Stop Lost = 39679.99QT=0.038678
+Close Price = 39690.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39688.98QT=0.0
+Enter Price = 39688.0
+Stop Lost = 39679.99QT=0.01014
+Close Price = 39690.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39678.38QT=0.0
+Enter Price = 39687.39
+Stop Lost = 39688.98QT=0.274698
+Close Price = 39694.47
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39695.12QT=0.0
+Enter Price = 39682.88
+Stop Lost = 39666.79QT=0.06177
+Close Price = 39705.8
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39697.87QT=0.0
+Enter Price = 39687.38
+Stop Lost = 39667.74QT=0.133725
+Close Price = 39705.8
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39679.99QT=0.01351
+Enter Price = 39688.0
+Stop Lost = 39688.36QT=0.03
+Close Price = 39705.8
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39711.83QT=0.0
+Enter Price = 39710.83
+Stop Lost = 39703.21QT=2.86046
+Close Price = 39713.89
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39712.95QT=0.013347
+Enter Price = 39710.83
+Stop Lost = 39705.25QT=0.48696
+Close Price = 39713.89
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39710.99QT=0.014176
+Enter Price = 39709.1
+Stop Lost = 39705.25QT=0.510961
+Close Price = 39713.9
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39711.83QT=0.001
+Enter Price = 39709.1
+Stop Lost = 39705.25QT=1.153961
+Close Price = 39713.9
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39712.95QT=0.013347
+Enter Price = 39709.1
+Stop Lost = 39705.25QT=2.245015
+Close Price = 39716.36
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39711.84QT=0.001
+Enter Price = 39709.1
+Stop Lost = 39705.25QT=2.256755
+Close Price = 39712.59
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39717.03QT=0.0
+Enter Price = 39709.1
+Stop Lost = 39705.25QT=2.246816
+Close Price = 39719.89
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39713.18QT=0.0
+Enter Price = 39713.01
+Stop Lost = 39706.56QT=1.998477
+Close Price = 39717.28
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39716.0QT=0.001927
+Enter Price = 39713.01
+Stop Lost = 39706.56QT=3.672816
+Close Price = 39717.28
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39714.1QT=0.02
+Enter Price = 39713.01
+Stop Lost = 39706.56QT=3.799262
+Close Price = 39717.28
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39703.16QT=0.0
+Enter Price = 39713.0
+Stop Lost = 39713.31QT=0.411636
+Close Price = 39715.22
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39716.8QT=0.0
+Enter Price = 39714.76
+Stop Lost = 39712.81QT=0.021952
+Close Price = 39721.22
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39728.3QT=0.0
+Enter Price = 39721.22
+Stop Lost = 39719.99QT=0.628629
+Close Price = 39728.37
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39729.09QT=0.006258
+Enter Price = 39709.1
+Stop Lost = 39703.21QT=0.051026
+Close Price = 39729.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39729.09QT=0.005
+Enter Price = 39709.1
+Stop Lost = 39703.21QT=0.051433
+Close Price = 39733.04
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39732.08QT=0.002
+Enter Price = 39712.58
+Stop Lost = 39704.56QT=2.504744
+Close Price = 39733.04
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39728.84QT=0.0
+Enter Price = 39721.22
+Stop Lost = 39716.81QT=0.777037
+Close Price = 39733.04
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39730.51QT=0.0
+Enter Price = 39721.22
+Stop Lost = 39719.99QT=1.898816
+Close Price = 39734.01
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39700.92QT=0.0
+Enter Price = 39712.59
+Stop Lost = 39721.89QT=0.27
+Close Price = 39731.28
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39718.92QT=0.0
+Enter Price = 39721.22
+Stop Lost = 39729.94QT=0.158082
+Close Price = 39731.28
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39720.68QT=0.0
+Enter Price = 39721.22
+Stop Lost = 39725.1QT=0.011799
+Close Price = 39731.27
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39733.02QT=0.0
+Enter Price = 39729.99
+Stop Lost = 39725.05QT=0.29465
+Close Price = 39734.98
+---------------PERTE BUY----------------
+Take Profit= 39734.32QT=0.0
+Enter Price = 39734.01
+Stop Lost = 39725.0QT=0.927078
+Close Price = 39720.01
+---------------PERTE BUY----------------
+Take Profit= 39740.79QT=0.0
+Enter Price = 39731.27
+Stop Lost = 39725.0QT=1.288083
+Close Price = 39720.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39720.68QT=0.0
+Enter Price = 39731.27
+Stop Lost = 39734.46QT=0.101438
+Close Price = 39720.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39719.49QT=0.005
+Enter Price = 39731.28
+Stop Lost = 39734.47QT=0.27
+Close Price = 39715.23
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39711.98QT=0.013281
+Enter Price = 39729.99
+Stop Lost = 39733.02QT=0.274386
+Close Price = 39708.93
+---------------PERTE BUY----------------
+Take Profit= 39719.32QT=0.0
+Enter Price = 39715.23
+Stop Lost = 39707.45QT=0.393605
+Close Price = 39704.78
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39705.39QT=0.01
+Enter Price = 39720.01
+Stop Lost = 39722.71QT=0.04
+Close Price = 39704.78
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39691.41QT=0.0
+Enter Price = 39690.59
+Stop Lost = 39682.3QT=0.090988
+Close Price = 39692.44
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39696.24QT=0.0
+Enter Price = 39692.44
+Stop Lost = 39675.6QT=0.099602
+Close Price = 39696.67
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39695.27QT=0.0
+Enter Price = 39692.45
+Stop Lost = 39685.56QT=0.313964
+Close Price = 39696.67
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39703.5QT=0.000699
+Enter Price = 39692.44
+Stop Lost = 39683.71QT=0.141117
+Close Price = 39704.93
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39701.62QT=0.0
+Enter Price = 39696.67
+Stop Lost = 39693.26QT=1.22009
+Close Price = 39704.93
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39706.37QT=0.0
+Enter Price = 39696.67
+Stop Lost = 39693.26QT=1.109276
+Close Price = 39708.23
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39706.08QT=0.0
+Enter Price = 39704.93
+Stop Lost = 39691.31QT=0.11795
+Close Price = 39708.23
+---------------PERTE BUY----------------
+Take Profit= 39709.07QT=0.0
+Enter Price = 39708.23
+Stop Lost = 39703.39QT=0.017
+Close Price = 39702.83
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39708.53QT=0.0
+Enter Price = 39702.83
+Stop Lost = 39697.56QT=0.051087
+Close Price = 39708.69
+---------------PERTE BUY----------------
+Take Profit= 39713.54QT=0.0
+Enter Price = 39704.93
+Stop Lost = 39699.93QT=0.22
+Close Price = 39696.69
+---------------PERTE BUY----------------
+Take Profit= 39713.3QT=0.0
+Enter Price = 39702.83
+Stop Lost = 39699.58QT=0.201
+Close Price = 39696.69
+---------------PERTE BUY----------------
+Take Profit= 39713.99QT=0.0
+Enter Price = 39702.83
+Stop Lost = 39695.15QT=0.005
+Close Price = 39694.67
+---------------PERTE BUY----------------
+Take Profit= 39712.67QT=0.0
+Enter Price = 39702.83
+Stop Lost = 39699.88QT=0.828455
+Close Price = 39699.23
+---------------PERTE BUY----------------
+Take Profit= 39711.69QT=0.0
+Enter Price = 39708.69
+Stop Lost = 39699.88QT=0.735533
+Close Price = 39699.23
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39699.87QT=0.002
+Enter Price = 39702.83
+Stop Lost = 39709.45QT=0.096236
+Close Price = 39699.23
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39695.28QT=0.012593
+Enter Price = 39699.23
+Stop Lost = 39699.24QT=2.023305
+Close Price = 39703.98
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39709.05QT=0.0
+Enter Price = 39708.69
+Stop Lost = 39696.51QT=0.122922
+Close Price = 39720.82
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39715.29QT=0.019518
+Enter Price = 39720.82
+Stop Lost = 39723.71QT=0.25429
+Close Price = 39723.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39710.91QT=0.011551
+Enter Price = 39710.59
+Stop Lost = 39704.68QT=0.399002
+Close Price = 39717.66
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39724.24QT=0.0
+Enter Price = 39710.59
+Stop Lost = 39705.01QT=0.355
+Close Price = 39730.37
+---------------PERTE BUY----------------
+Take Profit= 39749.5QT=0.0
+Enter Price = 39730.37
+Stop Lost = 39723.18QT=0.959556
+Close Price = 39720.01
+---------------PERTE BUY----------------
+Take Profit= 39734.66QT=0.0183
+Enter Price = 39723.19
+Stop Lost = 39720.97QT=1.40172
+Close Price = 39720.47
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39724.5QT=0.0
+Enter Price = 39721.98
+Stop Lost = 39715.26QT=1.51496
+Close Price = 39725.27
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39724.32QT=0.0
+Enter Price = 39721.98
+Stop Lost = 39715.26QT=1.210323
+Close Price = 39725.27
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39728.04QT=0.0
+Enter Price = 39725.27
+Stop Lost = 39717.82QT=0.689163
+Close Price = 39728.97
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39723.89QT=0.0
+Enter Price = 39722.65
+Stop Lost = 39715.09QT=0.426314
+Close Price = 39728.97
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39729.89QT=0.0
+Enter Price = 39728.97
+Stop Lost = 39720.69QT=2.083834
+Close Price = 39729.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39724.5QT=0.0
+Enter Price = 39728.97
+Stop Lost = 39729.9QT=0.588813
+Close Price = 39730.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39736.69QT=0.002
+Enter Price = 39720.01
+Stop Lost = 39716.93QT=0.005
+Close Price = 39737.18
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39731.75QT=0.0
+Enter Price = 39720.21
+Stop Lost = 39715.24QT=2.592102
+Close Price = 39737.66
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39736.52QT=0.0
+Enter Price = 39730.0
+Stop Lost = 39714.37QT=0.25425
+Close Price = 39737.66
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39736.88QT=0.02
+Enter Price = 39729.99
+Stop Lost = 39729.9QT=1.20115
+Close Price = 39737.66
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39741.86QT=0.0
+Enter Price = 39737.66
+Stop Lost = 39734.24QT=1.665626
+Close Price = 39742.3
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39717.42QT=0.0
+Enter Price = 39725.27
+Stop Lost = 39736.95QT=0.0183
+Close Price = 39742.3
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39718.18QT=0.01
+Enter Price = 39729.99
+Stop Lost = 39730.57QT=0.274396
+Close Price = 39737.18
+---------------PERTE BUY----------------
+Take Profit= 39743.84QT=0.0183
+Enter Price = 39729.95
+Stop Lost = 39718.84QT=0.328
+Close Price = 39712.15
+---------------PERTE BUY----------------
+Take Profit= 39746.73QT=0.0
+Enter Price = 39729.99
+Stop Lost = 39725.48QT=0.03
+Close Price = 39712.15
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39715.66QT=0.0
+Enter Price = 39729.99
+Stop Lost = 39741.47QT=0.25425
+Close Price = 39700.02
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39714.95QT=0.012586
+Enter Price = 39730.0
+Stop Lost = 39736.52QT=0.25425
+Close Price = 39712.15
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39728.69QT=0.0
+Enter Price = 39737.66
+Stop Lost = 39746.67QT=0.03
+Close Price = 39704.24
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39707.56QT=0.0
+Enter Price = 39705.26
+Stop Lost = 39695.36QT=1.016254
+Close Price = 39709.96
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39709.17QT=0.0
+Enter Price = 39707.5
+Stop Lost = 39696.85QT=0.945718
+Close Price = 39709.96
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39702.87QT=0.028002
+Enter Price = 39701.1
+Stop Lost = 39695.49QT=1.127141
+Close Price = 39704.95
+---------------PERTE BUY----------------
+Take Profit= 39716.95QT=0.0
+Enter Price = 39705.26
+Stop Lost = 39698.64QT=0.844494
+Close Price = 39695.76
+---------------PERTE BUY----------------
+Take Profit= 39725.02QT=0.0183
+Enter Price = 39705.26
+Stop Lost = 39695.55QT=0.364
+Close Price = 39689.0
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39695.37QT=0.011411
+Enter Price = 39701.11
+Stop Lost = 39706.08QT=0.012595
+Close Price = 39689.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39690.58QT=0.0
+Enter Price = 39689.0
+Stop Lost = 39683.06QT=2.259313
+Close Price = 39691.09
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39694.79QT=0.0
+Enter Price = 39691.09
+Stop Lost = 39683.43QT=2.41031
+Close Price = 39695.81
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39692.93QT=0.0
+Enter Price = 39691.09
+Stop Lost = 39686.99QT=0.274293
+Close Price = 39698.67
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39696.57QT=0.0
+Enter Price = 39691.09
+Stop Lost = 39683.44QT=0.83907
+Close Price = 39702.33
+---------------PERTE BUY----------------
+Take Profit= 39736.86QT=0.0
+Enter Price = 39726.1
+Stop Lost = 39716.9QT=0.42697
+Close Price = 39705.69
+---------------PERTE BUY----------------
+Take Profit= 39744.7QT=0.0
+Enter Price = 39726.1
+Stop Lost = 39716.9QT=0.88097
+Close Price = 39705.69
+---------------PERTE BUY----------------
+Take Profit= 39738.48QT=0.0
+Enter Price = 39722.16
+Stop Lost = 39717.88QT=0.788483
+Close Price = 39705.69
+---------------PERTE BUY----------------
+Take Profit= 39740.15QT=0.0
+Enter Price = 39723.94
+Stop Lost = 39715.32QT=0.670266
+Close Price = 39702.73
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39702.78QT=0.0
+Enter Price = 39692.28
+Stop Lost = 39685.12QT=0.039018
+Close Price = 39714.22
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39691.01QT=0.009408
+Enter Price = 39696.39
+Stop Lost = 39701.49QT=0.427545
+Close Price = 39714.22
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39710.35QT=0.0
+Enter Price = 39714.22
+Stop Lost = 39718.0QT=0.002977
+Close Price = 39722.15
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39724.37QT=0.0
+Enter Price = 39722.15
+Stop Lost = 39719.99QT=0.75
+Close Price = 39724.38
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39728.31QT=0.0
+Enter Price = 39714.22
+Stop Lost = 39703.17QT=0.026384
+Close Price = 39737.76
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39736.92QT=0.0
+Enter Price = 39722.15
+Stop Lost = 39719.99QT=1.60613
+Close Price = 39737.76
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39729.49QT=0.0
+Enter Price = 39724.38
+Stop Lost = 39719.99QT=0.088641
+Close Price = 39740.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39741.3QT=0.0
+Enter Price = 39724.17
+Stop Lost = 39719.99QT=0.320807
+Close Price = 39743.91
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39732.6QT=0.0
+Enter Price = 39724.38
+Stop Lost = 39719.99QT=1.112699
+Close Price = 39739.32
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39741.05QT=0.0
+Enter Price = 39724.17
+Stop Lost = 39719.99QT=0.242829
+Close Price = 39742.91
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39741.96QT=0.0
+Enter Price = 39739.34
+Stop Lost = 39725.58QT=0.14
+Close Price = 39742.9
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39727.32QT=0.0
+Enter Price = 39739.32
+Stop Lost = 39742.0QT=0.08
+Close Price = 39742.9
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39744.62QT=0.0
+Enter Price = 39739.34
+Stop Lost = 39733.7QT=1.125
+Close Price = 39746.13
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39745.85QT=0.002268
+Enter Price = 39742.92
+Stop Lost = 39733.7QT=2.100881
+Close Price = 39746.13
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39743.78QT=0.002247
+Enter Price = 39740.71
+Stop Lost = 39729.65QT=0.00318
+Close Price = 39748.85
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39745.0QT=0.012471
+Enter Price = 39742.88
+Stop Lost = 39739.18QT=1.275781
+Close Price = 39748.85
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39727.81QT=0.02
+Enter Price = 39739.34
+Stop Lost = 39746.5QT=0.22583
+Close Price = 39748.85
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39728.38QT=0.0
+Enter Price = 39739.79
+Stop Lost = 39743.8QT=0.157
+Close Price = 39750.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39750.93QT=0.0
+Enter Price = 39742.88
+Stop Lost = 39739.14QT=0.036458
+Close Price = 39752.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39752.83QT=0.0
+Enter Price = 39750.0
+Stop Lost = 39742.4QT=0.01
+Close Price = 39752.99
+---------------PERTE BUY----------------
+Take Profit= 39755.31QT=0.0183
+Enter Price = 39742.89
+Stop Lost = 39738.11QT=0.125764
+Close Price = 39737.39
+---------------PERTE BUY----------------
+Take Profit= 39755.57QT=0.001
+Enter Price = 39748.85
+Stop Lost = 39739.18QT=1.928051
+Close Price = 39737.39
+---------------PERTE BUY----------------
+Take Profit= 39769.85QT=0.0
+Enter Price = 39750.0
+Stop Lost = 39743.71QT=0.175002
+Close Price = 39737.39
+---------------PERTE BUY----------------
+Take Profit= 39766.78QT=0.0
+Enter Price = 39748.85
+Stop Lost = 39736.91QT=0.072623
+Close Price = 39734.59
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39728.2QT=0.0
+Enter Price = 39739.34
+Stop Lost = 39755.37QT=0.377632
+Close Price = 39727.33
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39731.41QT=0.0
+Enter Price = 39742.91
+Stop Lost = 39753.45QT=0.34402
+Close Price = 39727.33
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39729.76QT=0.02
+Enter Price = 39727.33
+Stop Lost = 39721.38QT=1.004095
+Close Price = 39732.47
+---------------PERTE BUY----------------
+Take Profit= 39751.16QT=0.0
+Enter Price = 39734.58
+Stop Lost = 39718.26QT=0.274411
+Close Price = 39709.51
+---------------PERTE BUY----------------
+Take Profit= 39734.95QT=0.012587
+Enter Price = 39724.39
+Stop Lost = 39712.4QT=2.0
+Close Price = 39709.51
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39713.0QT=0.0
+Enter Price = 39732.47
+Stop Lost = 39737.97QT=0.04
+Close Price = 39712.29
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39717.05QT=0.0
+Enter Price = 39723.79
+Stop Lost = 39726.77QT=0.057012
+Close Price = 39712.29
+---------------PERTE BUY----------------
+Take Profit= 39725.92QT=0.0
+Enter Price = 39723.79
+Stop Lost = 39711.81QT=0.802359
+Close Price = 39710.5
+---------------PERTE BUY----------------
+Take Profit= 39723.82QT=0.0
+Enter Price = 39710.55
+Stop Lost = 39701.47QT=0.382624
+Close Price = 39699.99
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39700.05QT=0.004909
+Enter Price = 39710.55
+Stop Lost = 39728.84QT=0.074627
+Close Price = 39699.99
+---------------PERTE BUY----------------
+Take Profit= 39711.52QT=0.002
+Enter Price = 39697.68
+Stop Lost = 39687.0QT=0.04
+Close Price = 39682.0
+---------------PERTE BUY----------------
+Take Profit= 39709.34QT=0.029652
+Enter Price = 39694.71
+Stop Lost = 39681.51QT=1.0
+Close Price = 39670.96
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39669.63QT=0.0
+Enter Price = 39666.93
+Stop Lost = 39660.83QT=1.725
+Close Price = 39670.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39669.63QT=0.0
+Enter Price = 39666.93
+Stop Lost = 39658.92QT=0.787604
+Close Price = 39673.93
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39668.68QT=0.0
+Enter Price = 39665.83
+Stop Lost = 39655.38QT=3.410068
+Close Price = 39669.68
+---------------PERTE BUY----------------
+Take Profit= 39681.72QT=0.007742
+Enter Price = 39671.44
+Stop Lost = 39661.77QT=2.893196
+Close Price = 39660.01
+---------------PERTE BUY----------------
+Take Profit= 39683.3QT=0.0183
+Enter Price = 39670.64
+Stop Lost = 39660.3QT=0.792896
+Close Price = 39660.01
+---------------PERTE BUY----------------
+Take Profit= 39681.16QT=0.0
+Enter Price = 39671.66
+Stop Lost = 39659.73QT=0.012604
+Close Price = 39652.27
+---------------PERTE BUY----------------
+Take Profit= 39681.83QT=0.0
+Enter Price = 39667.5
+Stop Lost = 39658.92QT=1.479998
+Close Price = 39652.27
+---------------PERTE BUY----------------
+Take Profit= 39685.82QT=0.0
+Enter Price = 39672.0
+Stop Lost = 39656.48QT=1.1
+Close Price = 39645.28
+---------------PERTE BUY----------------
+Take Profit= 39681.61QT=0.0
+Enter Price = 39671.5
+Stop Lost = 39661.77QT=1.989126
+Close Price = 39645.28
+---------------PERTE BUY----------------
+Take Profit= 39675.09QT=0.0
+Enter Price = 39665.83
+Stop Lost = 39655.37QT=0.18902
+Close Price = 39646.61
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39655.97QT=0.028001
+Enter Price = 39671.66
+Stop Lost = 39686.12QT=0.370338
+Close Price = 39642.52
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39659.04QT=0.037604
+Enter Price = 39668.94
+Stop Lost = 39674.18QT=0.268424
+Close Price = 39642.52
+---------------PERTE BUY----------------
+Take Profit= 39648.29QT=0.005
+Enter Price = 39642.52
+Stop Lost = 39637.37QT=2.35
+Close Price = 39636.32
+---------------PERTE BUY----------------
+Take Profit= 39652.04QT=0.0
+Enter Price = 39642.52
+Stop Lost = 39637.37QT=2.350282
+Close Price = 39636.32
+---------------PERTE BUY----------------
+Take Profit= 39649.13QT=0.0
+Enter Price = 39642.52
+Stop Lost = 39634.02QT=0.066275
+Close Price = 39634.0
+---------------PERTE BUY----------------
+Take Profit= 39651.52QT=0.0
+Enter Price = 39642.52
+Stop Lost = 39637.37QT=1.704875
+Close Price = 39634.0
+---------------PERTE BUY----------------
+Take Profit= 39661.59QT=0.0
+Enter Price = 39645.01
+Stop Lost = 39635.38QT=0.02692
+Close Price = 39634.0
+---------------PERTE BUY----------------
+Take Profit= 39649.89QT=0.0
+Enter Price = 39646.01
+Stop Lost = 39634.13QT=0.04
+Close Price = 39630.06
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39648.09QT=0.0
+Enter Price = 39646.04
+Stop Lost = 39640.18QT=0.126077
+Close Price = 39649.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39654.62QT=0.0
+Enter Price = 39641.99
+Stop Lost = 39637.04QT=0.681877
+Close Price = 39661.52
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39651.01QT=0.0
+Enter Price = 39641.99
+Stop Lost = 39637.04QT=1.715976
+Close Price = 39661.52
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39657.32QT=0.0
+Enter Price = 39646.72
+Stop Lost = 39637.04QT=2.007935
+Close Price = 39661.52
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39653.38QT=0.0183
+Enter Price = 39643.49
+Stop Lost = 39637.05QT=0.233199
+Close Price = 39663.81
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39653.84QT=0.0183
+Enter Price = 39645.25
+Stop Lost = 39637.05QT=0.641235
+Close Price = 39663.81
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39657.13QT=0.0
+Enter Price = 39642.46
+Stop Lost = 39630.75QT=0.252135
+Close Price = 39664.84
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39627.78QT=0.0
+Enter Price = 39646.04
+Stop Lost = 39650.44QT=0.25349
+Close Price = 39663.83
+---------------PERTE BUY----------------
+Take Profit= 39680.08QT=0.037817
+Enter Price = 39663.81
+Stop Lost = 39655.37QT=0.97496
+Close Price = 39654.3
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39664.94QT=0.0
+Enter Price = 39659.0
+Stop Lost = 39651.98QT=0.313681
+Close Price = 39664.99
+---------------PERTE BUY----------------
+Take Profit= 39670.23QT=0.0
+Enter Price = 39662.52
+Stop Lost = 39655.36QT=0.031041
+Close Price = 39655.04
+---------------PERTE BUY----------------
+Take Profit= 39676.42QT=0.0
+Enter Price = 39662.17
+Stop Lost = 39656.3QT=0.071015
+Close Price = 39655.04
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39655.36QT=0.033704
+Enter Price = 39661.51
+Stop Lost = 39679.32QT=0.650024
+Close Price = 39653.18
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39656.3QT=0.01
+Enter Price = 39664.99
+Stop Lost = 39669.6QT=0.25468
+Close Price = 39653.18
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39656.82QT=0.014888
+Enter Price = 39666.59
+Stop Lost = 39674.3QT=0.126413
+Close Price = 39653.19
+---------------PERTE BUY----------------
+Take Profit= 39675.59QT=0.0
+Enter Price = 39659.62
+Stop Lost = 39652.34QT=0.300493
+Close Price = 39645.12
+---------------PERTE BUY----------------
+Take Profit= 39670.0QT=0.0
+Enter Price = 39662.52
+Stop Lost = 39652.24QT=0.009418
+Close Price = 39645.12
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39650.0QT=0.0
+Enter Price = 39661.52
+Stop Lost = 39676.57QT=0.34305
+Close Price = 39645.11
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39652.35QT=0.012606
+Enter Price = 39659.62
+Stop Lost = 39678.91QT=0.412478
+Close Price = 39645.11
+---------------PERTE BUY----------------
+Take Profit= 39672.37QT=0.0
+Enter Price = 39653.18
+Stop Lost = 39644.03QT=1.937108
+Close Price = 39642.01
+---------------PERTE BUY----------------
+Take Profit= 39670.94QT=0.0
+Enter Price = 39653.18
+Stop Lost = 39644.15QT=0.023831
+Close Price = 39642.01
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39651.97QT=0.0
+Enter Price = 39662.46
+Stop Lost = 39667.62QT=0.126033
+Close Price = 39640.01
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39644.98QT=0.0
+Enter Price = 39642.39
+Stop Lost = 39639.56QT=1.875
+Close Price = 39649.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39649.85QT=0.0
+Enter Price = 39642.39
+Stop Lost = 39639.56QT=1.907594
+Close Price = 39649.99
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39637.0QT=0.036116
+Enter Price = 39645.12
+Stop Lost = 39649.25QT=0.25481
+Close Price = 39652.78
+++++++++++++++GAIN SELL+++++++++++++
+Take Profit= 39646.29QT=0.008021
+Enter Price = 39649.99
+Stop Lost = 39662.25QT=0.34305
+Close Price = 39645.79
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39652.73QT=0.002
+Enter Price = 39637.45
+Stop Lost = 39627.0QT=0.273
+Close Price = 39653.78
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39637.0QT=0.034906
+Enter Price = 39645.12
+Stop Lost = 39653.53QT=0.157
+Close Price = 39653.78
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39622.56QT=0.0
+Enter Price = 39637.45
+Stop Lost = 39651.74QT=0.444501
+Close Price = 39653.78
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39655.35QT=0.0
+Enter Price = 39646.44
+Stop Lost = 39632.35QT=0.25479
+Close Price = 39657.77
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39653.98QT=0.0
+Enter Price = 39650.0
+Stop Lost = 39647.65QT=0.271729
+Close Price = 39657.77
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39661.29QT=0.0
+Enter Price = 39650.01
+Stop Lost = 39647.65QT=0.485417
+Close Price = 39664.69
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39656.29QT=0.001747
+Enter Price = 39650.01
+Stop Lost = 39647.88QT=3.532351
+Close Price = 39661.9
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39641.05QT=0.0
+Enter Price = 39647.89
+Stop Lost = 39655.76QT=0.097535
+Close Price = 39661.9
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39636.69QT=0.037611
+Enter Price = 39646.44
+Stop Lost = 39655.35QT=0.34305
+Close Price = 39661.9
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39664.29QT=0.002005
+Enter Price = 39661.9
+Stop Lost = 39653.22QT=0.381172
+Close Price = 39664.54
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39670.03QT=0.0
+Enter Price = 39650.99
+Stop Lost = 39642.27QT=0.454292
+Close Price = 39670.63
+---------------PERTE BUY----------------
+Take Profit= 39677.33QT=0.0183
+Enter Price = 39664.54
+Stop Lost = 39660.39QT=0.406526
+Close Price = 39657.8
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39661.78QT=0.001756
+Enter Price = 39657.8
+Stop Lost = 39641.59QT=0.274919
+Close Price = 39665.51
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39664.12QT=0.0
+Enter Price = 39657.81
+Stop Lost = 39654.22QT=0.365333
+Close Price = 39665.51
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39662.6QT=0.0
+Enter Price = 39657.5
+Stop Lost = 39640.19QT=0.25471
+Close Price = 39664.68
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39650.54QT=0.0
+Enter Price = 39660.0
+Stop Lost = 39662.83QT=0.27487
+Close Price = 39663.36
+---------------PERTE BUY----------------
+Take Profit= 39666.44QT=0.0
+Enter Price = 39657.8
+Stop Lost = 39647.99QT=0.218588
+Close Price = 39642.73
+---------------PERTE BUY----------------
+Take Profit= 39675.99QT=0.0
+Enter Price = 39661.22
+Stop Lost = 39651.41QT=0.274851
+Close Price = 39642.73
+---------------PERTE BUY----------------
+Take Profit= 39676.53QT=0.0
+Enter Price = 39661.52
+Stop Lost = 39652.54QT=0.067721
+Close Price = 39642.73
+---------------PERTE BUY----------------
+Take Profit= 39665.6QT=0.0
+Enter Price = 39657.5
+Stop Lost = 39651.38QT=0.231087
+Close Price = 39647.36
+---------------PERTE BUY----------------
+Take Profit= 39668.87QT=0.0
+Enter Price = 39658.28
+Stop Lost = 39651.39QT=1.797226
+Close Price = 39649.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39649.47QT=0.0
+Enter Price = 39647.36
+Stop Lost = 39643.68QT=2.831923
+Close Price = 39649.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39653.32QT=0.0
+Enter Price = 39649.99
+Stop Lost = 39644.38QT=0.016376
+Close Price = 39655.38
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39660.56QT=0.0
+Enter Price = 39656.04
+Stop Lost = 39647.93QT=0.306364
+Close Price = 39663.36
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39658.74QT=0.0
+Enter Price = 39649.99
+Stop Lost = 39638.79QT=0.25476
+Close Price = 39663.36
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39657.48QT=0.0
+Enter Price = 39651.11
+Stop Lost = 39645.3QT=0.350001
+Close Price = 39657.66
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39647.83QT=0.0
+Enter Price = 39643.32
+Stop Lost = 39635.77QT=3.90372
+Close Price = 39655.84
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39658.29QT=0.0
+Enter Price = 39661.28
+Stop Lost = 39665.12QT=0.274848
+Close Price = 39666.65
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39668.09QT=0.0
+Enter Price = 39665.99
+Stop Lost = 39658.97QT=0.787604
+Close Price = 39668.82
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39661.19QT=0.0
+Enter Price = 39666.64
+Stop Lost = 39669.99QT=0.274823
+Close Price = 39671.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39672.7QT=0.0
+Enter Price = 39664.96
+Stop Lost = 39657.16QT=0.050417
+Close Price = 39676.88
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39674.3QT=0.0004
+Enter Price = 39671.0
+Stop Lost = 39666.67QT=0.274767
+Close Price = 39693.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39699.98QT=0.0
+Enter Price = 39693.0
+Stop Lost = 39690.55QT=1.542328
+Close Price = 39699.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39696.28QT=0.0
+Enter Price = 39693.0
+Stop Lost = 39685.43QT=0.012596
+Close Price = 39699.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39699.6QT=0.0
+Enter Price = 39693.15
+Stop Lost = 39690.54QT=4.243168
+Close Price = 39700.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39783.63QT=0.0
+Enter Price = 39779.48
+Stop Lost = 39772.69QT=2.825123
+Close Price = 39784.95
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39768.3QT=0.0
+Enter Price = 39763.51
+Stop Lost = 39761.16QT=2.617049
+Close Price = 39770.0
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39800.22QT=0.0
+Enter Price = 39797.13
+Stop Lost = 39791.07QT=3.216529
+Close Price = 39803.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39818.69QT=0.0
+Enter Price = 39812.66
+Stop Lost = 39808.92QT=2.699904
+Close Price = 39820.09
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39769.55QT=0.0
+Enter Price = 39761.96
+Stop Lost = 39759.6QT=2.327203
+Close Price = 39769.99
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39781.04QT=0.0
+Enter Price = 39776.97
+Stop Lost = 39772.97QT=3.383542
+Close Price = 39782.84
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39782.53QT=0.0
+Enter Price = 39777.21
+Stop Lost = 39774.62QT=2.925657
+Close Price = 39788.93
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39782.79QT=0.0
+Enter Price = 39777.21
+Stop Lost = 39774.62QT=2.779352
+Close Price = 39788.93
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39779.28QT=0.0
+Enter Price = 39776.84
+Stop Lost = 39769.99QT=2.773049
+Close Price = 39779.6
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39783.77QT=0.0
+Enter Price = 39779.09
+Stop Lost = 39776.4QT=2.292501
+Close Price = 39784.97
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39811.82QT=0.0
+Enter Price = 39806.99
+Stop Lost = 39799.99QT=3.058265
+Close Price = 39813.94
+++++++++++++++GAIN BUY+++++++++++++
+Take Profit= 39780.16QT=0.0
+Enter Price = 39777.05
+Stop Lost = 39771.31QT=3.805156
+Close Price = 39791.27
+---------------PERTE BUY----------------
+Take Profit= 39817.82QT=0.0
+Enter Price = 39812.6
+Stop Lost = 39806.93QT=2.343136
+Close Price = 39806.46
+++++++++++++++GAIN SELL+++++++++++++
+EPTP6.709999999999127EPSL=2.459999999999127
+Take Profit= 39729.28QT=0.0
+Enter Price = 39735.99
+Stop Lost = 39738.45QT=6.791582
+Close Price = 39728.71
+++++++++++++++GAIN SELL+++++++++++++
+EPTP3.7999999999956344EPSL=3.2300000000032014
+Take Profit= 39706.19QT=0.02
+Enter Price = 39709.99
+Stop Lost = 39713.22QT=3.281989
+Close Price = 39706.06
+++++++++++++++GAIN SELL+++++++++++++
+EPTP2.349999999998545EPSL=3.2300000000032014
+Take Profit= 39707.64QT=0.0
+Enter Price = 39709.99
+Stop Lost = 39713.22QT=3.45704
+Close Price = 39706.06
+++++++++++++++GAIN SELL+++++++++++++
+EPTP4.5899999999965075EPSL=3.2300000000032014
+Take Profit= 39705.4QT=0.0
+Enter Price = 39709.99
+Stop Lost = 39713.22QT=3.68204
+Close Price = 39703.88
+++++++++++++++GAIN BUY+++++++++++++
+EPTP2.8099999999976717EPSL=3.0100000000020373
+Take Profit= 39802.81QT=0.0
+Enter Price = 39800.0
+Stop Lost = 39796.99QT=4.637955
+Close Price = 39809.56
+---------------PERTE BUY----------------
+EPTP5.05000000000291EPSL=5.32999999999447
+Take Profit= 39848.32QT=0.0
+Enter Price = 39843.27
+Stop Lost = 39837.94QT=2.937945
+Close Price = 39837.75
+++++++++++++++GAIN SELL+++++++++++++
+EPTP6.419999999998254EPSL=3.4099999999962165
+Take Profit= 39836.51QT=0.024412
+Enter Price = 39842.93
+Stop Lost = 39846.34QT=2.6026
+Close Price = 39834.01
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39830.44QT=0.0
+Enter Price = 39834.01
+Stop Lost = 39837.99QT=2.682977
+Close Price = 39845.87
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39827.11QT=0.0
+Enter Price = 39834.01
+Stop Lost = 39837.99QT=2.642709
+Close Price = 39845.87
+---------------PERTE BUY----------------
+EPTP5.150000000001455EPSL=4.059999999997672
+Take Profit= 39918.29QT=0.0
+Enter Price = 39913.14
+Stop Lost = 39909.08QT=2.67357
+Close Price = 39904.83
+++++++++++++++GAIN SELL+++++++++++++
+EPTP2.1599999999962165EPSL=2.209999999999127
+Take Profit= 39800.12QT=0.0
+Enter Price = 39802.28
+Stop Lost = 39804.49QT=3.06004
+Close Price = 39789.06
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39781.82QT=0.0
+Enter Price = 39789.06
+Stop Lost = 39792.01QT=5.947198
+Close Price = 39792.97
+++++++++++++++GAIN BUY+++++++++++++
+EPTP2.1600000000034925EPSL=2.1999999999970896
+Take Profit= 39826.16QT=0.0
+Enter Price = 39824.0
+Stop Lost = 39821.8QT=4.797844
+Close Price = 39835.9
+++++++++++++++GAIN SELL+++++++++++++
+EPTP4.230000000003201EPSL=2.039999999993597
+Take Profit= 39867.5QT=0.005
+Enter Price = 39871.73
+Stop Lost = 39873.77QT=2.527869
+Close Price = 39866.79
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39862.31QT=0.0
+Enter Price = 39866.79
+Stop Lost = 39870.7QT=5.554006
+Close Price = 39872.98
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39864.01QT=0.0
+Enter Price = 39866.79
+Stop Lost = 39873.73QT=4.996758
+Close Price = 39880.48
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39864.42QT=0.0
+Enter Price = 39866.99
+Stop Lost = 39870.7QT=6.652968
+Close Price = 39880.48
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39860.95QT=0.0
+Enter Price = 39866.99
+Stop Lost = 39870.7QT=5.517968
+Close Price = 39880.48
+++++++++++++++GAIN SELL+++++++++++++
+EPTP5.440000000002328EPSL=3.180000000000291
+Take Profit= 39884.04QT=0.0
+Enter Price = 39889.48
+Stop Lost = 39892.66QT=2.365741
+Close Price = 39880.01
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39843.29QT=0.0
+Enter Price = 39846.09
+Stop Lost = 39850.17QT=5.623437
+Close Price = 39856.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39839.0QT=0.0
+Enter Price = 39845.78
+Stop Lost = 39850.17QT=2.411652
+Close Price = 39856.0
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39844.41QT=0.0
+Enter Price = 39850.87
+Stop Lost = 39856.01QT=2.317741
+Close Price = 39856.05
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39845.11QT=0.02
+Enter Price = 39850.0
+Stop Lost = 39856.01QT=2.676317
+Close Price = 39864.04
+++++++++++++++GAIN SELL+++++++++++++
+EPTP2.25EPSL=2.0100000000020373
+Take Profit= 39859.74QT=0.0
+Enter Price = 39861.99
+Stop Lost = 39864.0QT=2.25388
+Close Price = 39857.81
+++++++++++++++GAIN SELL+++++++++++++
+EPTP3.1600000000034925EPSL=3.609999999993306
+Take Profit= 39851.32QT=0.001968
+Enter Price = 39854.48
+Stop Lost = 39858.09QT=2.426095
+Close Price = 39845.84
+++++++++++++++GAIN SELL+++++++++++++
+EPTP2.4100000000034925EPSL=3.0100000000020373
+Take Profit= 39837.59QT=0.001731
+Enter Price = 39840.0
+Stop Lost = 39843.01QT=2.538848
+Close Price = 39834.02
+---------------PERTE BUY----------------
+EPTP3.069999999999709EPSL=4.470000000001164
+Take Profit= 39840.0QT=0.02
+Enter Price = 39836.93
+Stop Lost = 39832.46QT=2.576925
+Close Price = 39832.26
+---------------PERTE BUY----------------
+EPTP3.029999999998836EPSL=4.430000000000291
+Take Profit= 39839.96QT=0.0
+Enter Price = 39836.93
+Stop Lost = 39832.5QT=3.465356
+Close Price = 39832.26
+++++++++++++++GAIN BUY+++++++++++++
+EPTP3.9400000000023283EPSL=4.5899999999965075
+Take Profit= 39843.54QT=0.0
+Enter Price = 39839.6
+Stop Lost = 39835.01QT=2.513047
+Close Price = 39853.11
+---------------PERTE BUY----------------
+EPTP2.349999999998545EPSL=4.230000000003201
+Take Profit= 39860.32QT=0.01
+Enter Price = 39857.97
+Stop Lost = 39853.74QT=4.061754
+Close Price = 39851.6
+++++++++++++++PERTE SELL+++++++++++++
+Take Profit= 39850.32QT=0.012543
+Enter Price = 39853.19
+Stop Lost = 39855.34QT=4.251867
+Close Price = 39855.7
+++++++++++++++GAIN BUY+++++++++++++
+EPTP2.0200000000040745EPSL=6.0
+Take Profit= 39858.01QT=0.0
+Enter Price = 39855.99
+Stop Lost = 39849.99QT=2.882763
+Close Price = 39864.0
+++++++++++++++GAIN BUY+++++++++++++
+EPTP3.9400000000023283EPSL=5.480000000003201
+Take Profit= 39855.44QT=0.0
+Enter Price = 39851.5
+Stop Lost = 39846.02QT=2.10048
+Close Price = 39864.66
+---------------PERTE BUY----------------
+EPTP3.3699999999953434EPSL=7.540000000000873
+Take Profit= 39935.77QT=0.0
+Enter Price = 39932.4
+Stop Lost = 39924.86QT=2.725
+Close Price = 39915.61
+---------------PERTE BUY----------------
+EPTP4.680000000000291EPSL=3.2599999999947613
+Take Profit= 40025.85QT=0.0
+Enter Price = 40021.17
+Stop Lost = 40017.91QT=2.911883
+Close Price = 40014.34
+---------------PERTE BUY----------------
+EPTP5.44999999999709EPSL=4.2700000000040745
+Take Profit= 40027.64QT=0.0
+Enter Price = 40022.19
+Stop Lost = 40017.92QT=2.496899
+Close Price = 40015.5
+++++++++++++++PERTE SELL+++++++++++++
+EPTP6.440000000002328EPSL=5.139999999999418
+Take Profit= 40041.81QT=0.0
+Enter Price = 40048.25
+Stop Lost = 40053.39QT=4.07217
+Close Price = 40059.01
+++++++++++++++PERTE SELL+++++++++++++
+EPTP5.989999999997963EPSL=7.879999999997381
+Take Profit= 40076.01QT=0.0
+Enter Price = 40082.0
+Stop Lost = 40089.88QT=2.282032
+Close Price = 40090.0
+++++++++++++++PERTE SELL+++++++++++++
+EPTP3.110000000000582EPSL=2.1899999999950523
+Take Profit= 40096.3QT=0.0
+Enter Price = 40099.41
+Stop Lost = 40101.6QT=2.56947
+Close Price = 40108.98
+++++++++++++++PERTE SELL+++++++++++++
+EPTP4.30000000000291EPSL=2.1899999999950523
+Take Profit= 40095.11QT=0.0
+Enter Price = 40099.41
+Stop Lost = 40101.6QT=2.065282
+Close Price = 40113.72
+++++++++++++++PERTE SELL+++++++++++++
+EPTP2.720000000001164EPSL=2.0899999999965075
+Take Profit= 40094.33QT=0.0
+Enter Price = 40097.05
+Stop Lost = 40099.14QT=3.285091
+Close Price = 40108.98
+++++++++++++++PERTE SELL+++++++++++++
+EPTP5.630000000004657EPSL=4.3399999999965075
+Take Profit= 40115.77QT=0.002282
+Enter Price = 40121.4
+Stop Lost = 40125.74QT=4.982958
+Close Price = 40126.03
+++++++++++++++PERTE SELL+++++++++++++
+EPTP5.80000000000291EPSL=2.9899999999979627
+Take Profit= 40152.34QT=0.0
+Enter Price = 40158.14
+Stop Lost = 40161.13QT=2.894463
+Close Price = 40161.51
+++++++++++++++GAIN SELL+++++++++++++
+EPTP4.889999999999418EPSL=3.2700000000040745
+Take Profit= 40070.81QT=0.0
+Enter Price = 40075.7
+Stop Lost = 40078.97QT=4.701433
+Close Price = 40070.08
+++++++++++++++PERTE SELL+++++++++++++
+EPTP6.700000000004366EPSL=5.7299999999959255
+Take Profit= 40063.38QT=0.0
+Enter Price = 40070.08
+Stop Lost = 40075.81QT=2.164523
+Close Price = 40078.76
+++++++++++++++GAIN BUY+++++++++++++
+EPTP3.709999999999127EPSL=3.6199999999953434
+Take Profit= 40188.7QT=0.0
+Enter Price = 40184.99
+Stop Lost = 40181.37QT=2.170493
+Close Price = 40189.38
+++++++++++++++PERTE SELL+++++++++++++
+EPTP2.6200000000026193EPSL=5.720000000001164
+Take Profit= 40146.13QT=0.0
+Enter Price = 40148.75
+Stop Lost = 40154.47QT=4.123231
+Close Price = 40163.22
+++++++++++++++GAIN SELL+++++++++++++
+EPTP5.260000000002037EPSL=2.389999999999418
+Take Profit= 40114.0QT=0.0
+Enter Price = 40119.26
+Stop Lost = 40121.65QT=9.416945
+Close Price = 40105.32
+++++++++++++++GAIN SELL+++++++++++++
+EPTP6.180000000000291EPSL=2.6199999999953434
+Take Profit= 40084.83QT=0.000578
+Enter Price = 40091.01
+Stop Lost = 40093.63QT=2.505744
+Close Price = 40080.81
+++++++++++++++GAIN BUY+++++++++++++
+EPTP2.5199999999967986EPSL=5.120000000002619
+Take Profit= 40105.85QT=0.0
+Enter Price = 40103.33
+Stop Lost = 40098.21QT=2.599734
+Close Price = 40108.62
+++++++++++++++PERTE SELL+++++++++++++
+EPTP7.629999999997381EPSL=6.459999999999127
+Take Profit= 40101.54QT=0.0
+Enter Price = 40109.17
+Stop Lost = 40115.63QT=6.292252
+Close Price = 40116.19
+++++++++++++++GAIN SELL+++++++++++++
+EPTP7.540000000000873EPSL=2.469999999993888
+Take Profit= 40105.44QT=0.0
+Enter Price = 40112.98
+Stop Lost = 40115.45QT=3.596818
+Close Price = 40104.65
+++++++++++++++GAIN SELL+++++++++++++
+EPTP3.5199999999967986EPSL=2.529999999998836
+Take Profit= 40080.01QT=0.0
+Enter Price = 40083.53
+Stop Lost = 40086.06QT=7.420691
+Close Price = 40080.0
+---------------PERTE BUY----------------
+EPTP7.769999999996799EPSL=4.530000000006112
+Take Profit= 40087.57QT=0.0
+Enter Price = 40079.8
+Stop Lost = 40075.27QT=2.490924
+Close Price = 40072.0
+++++++++++++++GAIN SELL+++++++++++++
+EPTP3.7699999999967986EPSL=2.529999999998836
+Take Profit= 40079.76QT=0.0
+Enter Price = 40083.53
+Stop Lost = 40086.06QT=8.236332
+Close Price = 40072.0
+++++++++++++++GAIN SELL+++++++++++++
+EPTP3.860000000000582EPSL=2.529999999998836
+Take Profit= 40079.67QT=0.0
+Enter Price = 40083.53
+Stop Lost = 40086.06QT=7.426665
+Close Price = 40075.97
+++++++++++++++GAIN SELL+++++++++++++
+EPTP5.279999999998836EPSL=2.529999999998836
+Take Profit= 40078.25QT=0.0
+Enter Price = 40083.53
+Stop Lost = 40086.06QT=4.362953
+Close Price = 40077.06
+++++++++++++++GAIN SELL+++++++++++++
+EPTP3.610000000000582EPSL=4.44999999999709
+Take Profit= 40078.0QT=0.0
+Enter Price = 40081.61
+Stop Lost = 40086.06QT=4.59406
+Close Price = 40077.06
+++++++++++++++GAIN SELL+++++++++++++
+EPTP7.610000000000582EPSL=2.529999999998836
+Take Profit= 40075.92QT=0.0021
+Enter Price = 40083.53
+Stop Lost = 40086.06QT=6.570691
+Close Price = 40072.02
+++++++++++++++GAIN SELL+++++++++++++
+EPTP5.599999999998545EPSL=4.44999999999709
+Take Profit= 40076.01QT=0.0
+Enter Price = 40081.61
+Stop Lost = 40086.06QT=4.650431
+Close Price = 40072.02
+++++++++++++++GAIN BUY+++++++++++++
+EPTP5.370000000002619EPSL=3.5800000000017462
+Take Profit= 40073.04QT=0.0
+Enter Price = 40067.67
+Stop Lost = 40064.09QT=3.988517
+Close Price = 40074.0
+++++++++++++++PERTE SELL+++++++++++++
+EPTP7.639999999999418EPSL=5.519999999996799
+Take Profit= 40084.4QT=0.0
+Enter Price = 40092.04
+Stop Lost = 40097.56QT=3.506168
+Close Price = 40100.0
+++++++++++++++GAIN SELL+++++++++++++
+EPTP3.459999999999127EPSL=5.450000000004366
+Take Profit= 40102.0QT=0.002493
+Enter Price = 40105.46
+Stop Lost = 40110.91QT=3.416823
+Close Price = 40101.59
+++++++++++++++GAIN SELL+++++++++++++
+EPTP3.8699999999953434EPSL=6.680000000000291
+Take Profit= 40106.12QT=0.0
+Enter Price = 40109.99
+Stop Lost = 40116.67QT=4.704449
+Close Price = 40103.59
+++++++++++++++GAIN SELL+++++++++++++
+EPTP4.4100000000034925EPSL=4.559999999997672
+Take Profit= 40123.14QT=0.0
+Enter Price = 40127.55
+Stop Lost = 40132.11QT=2.877904
+Close Price = 40122.67
+++++++++++++++GAIN SELL+++++++++++++
+EPTP3.599999999998545EPSL=7.889999999999418
+Take Profit= 40139.01QT=0.0
+Enter Price = 40142.61
+Stop Lost = 40150.5QT=2.557407
+Close Price = 40138.4
